@@ -1,0 +1,2388 @@
+Agents			 Balance			 Transaction Number
+---------		 ---------		 ------------------------
+Agent WT1 attempted to withdraw $33 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT3 attempted to withdraw $92 from Account JA-1 - Blocked due to insufficient funds.
+
+Agent WT2 attempted to withdraw $30 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT4 attempted to withdraw $82 from Account JA-1 - Blocked due to insufficient funds.
+
+Agent WT5 attempted to withdraw $1 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT6 attempted to withdraw $13 from Account JA-1 - Blocked due to insufficient funds.
+
+Agent WT8 attempted to withdraw $3 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT7 attempted to withdraw $30 from Account JA-1 - Blocked due to insufficient funds.
+
+Agent WT9 attempted to withdraw $34 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT10 attempted to withdraw $13 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent DT3 deposits $596 into Account JA-1 - Balance: $596 [Transaction #1]
+
+Agent DT4 deposits $120 into Account JA-2 - Balance: $120 [Transaction #2]
+
+Agent DT2 deposits $128 into Account JA-2 - Balance: $248 [Transaction #3]
+
+Agent TR2 could not acquire lock for target account. Retrying...
+
+
+* * * Flagged Transaction: Deposit by Agent DT3 in Account JA-1 exceeded $450. See log.
+
+
+Agent DT1 deposits $276 into Account JA-1 - Balance: $872 [Transaction #4]
+
+Agent DT5 deposits $320 into Account JA-1 - Balance: $1192 [Transaction #5]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-1 exceeded $90. See log.
+
+Agent WT1 withdraws $9 from Account JA-1 - Balance: $1183 [Transaction #6]
+
+Agent TR2 attempted to transfer $279 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT9 withdraws $85 from Account JA-2 - Balance: $163 [Transaction #7]
+
+Agent WT6 withdraws $43 from Account JA-1 - Balance: $1140 [Transaction #8]
+
+Agent WT4 withdraws $67 from Account JA-2 - Balance: $96 [Transaction #9]
+
+Agent TR2 attempted to transfer $279 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT7 withdraws $65 from Account JA-1 - Balance: $1075 [Transaction #10]
+
+Agent WT1 withdraws $37 from Account JA-1 - Balance: $1038 [Transaction #11]
+
+Agent WT5 withdraws $80 from Account JA-2 - Balance: $16 [Transaction #12]
+
+Agent WT7 withdraws $66 from Account JA-1 - Balance: $972 [Transaction #13]
+
+Agent WT3 withdraws $95 from Account JA-1 - Balance: $877 [Transaction #14]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-1 exceeded $90. See log.
+
+Agent WT8 withdraws $26 from Account JA-1 - Balance: $851 [Transaction #15]
+
+Agent WT2 withdraws $54 from Account JA-1 - Balance: $797 [Transaction #16]
+
+Agent WT10 withdraws $12 from Account JA-2 - Balance: $4 [Transaction #17]
+
+Agent WT4 withdraws $93 from Account JA-1 - Balance: $704 [Transaction #18]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-1 exceeded $90. See log.
+
+Agent WT5 withdraws $98 from Account JA-1 - Balance: $606 [Transaction #19]
+
+* * * Flagged Transaction: Withdrawal by Agent WT5 in Account JA-1 exceeded $90. See log.
+
+Agent DT5 deposits $568 into Account JA-2 - Balance: $572 [Transaction #20]
+
+
+* * * Flagged Transaction: Deposit by Agent DT5 in Account JA-2 exceeded $450. See log.
+
+
+Agent TR2 transfers $279 from Account JA-2 to Account JA-1 - Source Balance: $293, Target Balance: $885 [Transaction #21]
+
+Agent WT5 withdraws $59 from Account JA-1 - Balance: $826 [Transaction #22]
+
+Agent WT4 withdraws $37 from Account JA-1 - Balance: $789 [Transaction #23]
+
+Agent WT9 withdraws $83 from Account JA-1 - Balance: $706 [Transaction #24]
+
+Agent TR2 attempted to transfer $364 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT2 withdraws $64 from Account JA-2 - Balance: $229 [Transaction #25]
+
+Agent DT4 deposits $248 into Account JA-1 - Balance: $954 [Transaction #26]
+
+Agent WT1 withdraws $41 from Account JA-1 - Balance: $913 [Transaction #27]
+
+Agent WT6 withdraws $61 from Account JA-1 - Balance: $852 [Transaction #28]
+
+Agent WT8 withdraws $67 from Account JA-2 - Balance: $162 [Transaction #29]
+
+Agent WT10 withdraws $9 from Account JA-1 - Balance: $843 [Transaction #30]
+
+Agent WT7 withdraws $90 from Account JA-1 - Balance: $753 [Transaction #31]
+
+* * * Flagged Transaction: Withdrawal by Agent WT7 in Account JA-1 exceeded $90. See log.
+
+Agent TR1 transfers $166 from Account JA-1 to Account JA-2 - Source Balance: $587, Target Balance: $328 [Transaction #32]
+
+Agent WT4 withdraws $81 from Account JA-1 - Balance: $506 [Transaction #33]
+
+Agent WT10 withdraws $5 from Account JA-2 - Balance: $323 [Transaction #34]
+
+Agent WT3 withdraws $2 from Account JA-2 - Balance: $321 [Transaction #35]
+
+Agent TR2 attempted to transfer $364 from Account JA-2 - Blocked due to insufficient funds.
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $506 [Transactions since last audit: 35
+ JA-2 Balance: $321 [Transactions since last audit: 35]
+
+Agent WT3 withdraws $20 from Account JA-1 - Balance: $486 [Transaction #36]
+
+Agent WT1 withdraws $67 from Account JA-1 - Balance: $419 [Transaction #37]
+
+Agent WT7 withdraws $37 from Account JA-2 - Balance: $284 [Transaction #38]
+
+Agent WT2 withdraws $44 from Account JA-2 - Balance: $240 [Transaction #39]
+
+Agent WT3 withdraws $80 from Account JA-1 - Balance: $339 [Transaction #40]
+
+Agent WT5 withdraws $93 from Account JA-2 - Balance: $147 [Transaction #41]
+
+* * * Flagged Transaction: Withdrawal by Agent WT5 in Account JA-2 exceeded $90. See log.
+
+Agent WT9 withdraws $69 from Account JA-2 - Balance: $78 [Transaction #42]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $339 [Transactions since last audit: 42
+ JA-2 Balance: $78 [Transactions since last audit: 42]
+
+Agent WT2 withdraws $42 from Account JA-1 - Balance: $297 [Transaction #43]
+
+Agent WT10 withdraws $5 from Account JA-1 - Balance: $292 [Transaction #44]
+
+Agent DT4 deposits $414 into Account JA-1 - Balance: $706 [Transaction #45]
+
+Agent DT5 deposits $433 into Account JA-1 - Balance: $1139 [Transaction #46]
+
+Agent WT4 withdraws $57 from Account JA-1 - Balance: $1082 [Transaction #47]
+
+Agent TR2 attempted to transfer $364 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT6 withdraws $33 from Account JA-1 - Balance: $1049 [Transaction #48]
+
+Agent WT8 withdraws $3 from Account JA-2 - Balance: $75 [Transaction #49]
+
+Agent DT3 deposits $162 into Account JA-2 - Balance: $237 [Transaction #50]
+
+Agent TR2 attempted to transfer $364 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent DT5 deposits $423 into Account JA-2 - Balance: $660 [Transaction #51]
+
+Agent WT10 withdraws $93 from Account JA-1 - Balance: $956 [Transaction #52]
+
+* * * Flagged Transaction: Withdrawal by Agent WT10 in Account JA-1 exceeded $90. See log.
+
+Agent WT7 withdraws $86 from Account JA-1 - Balance: $870 [Transaction #53]
+
+Agent WT1 withdraws $8 from Account JA-2 - Balance: $652 [Transaction #54]
+
+Agent WT8 withdraws $67 from Account JA-1 - Balance: $803 [Transaction #55]
+
+Agent DT2 deposits $145 into Account JA-2 - Balance: $797 [Transaction #56]
+
+Agent WT5 withdraws $22 from Account JA-2 - Balance: $775 [Transaction #57]
+
+Agent WT6 withdraws $4 from Account JA-2 - Balance: $771 [Transaction #58]
+
+Agent TR2 transfers $364 from Account JA-2 to Account JA-1 - Source Balance: $407, Target Balance: $1167 [Transaction #59]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $1167 [Transactions since last audit: 17
+ JA-2 Balance: $407 [Transactions since last audit: 17]
+
+Agent WT1 withdraws $46 from Account JA-1 - Balance: $1121 [Transaction #60]
+
+Agent WT4 withdraws $10 from Account JA-1 - Balance: $1111 [Transaction #61]
+
+Agent DT1 deposits $586 into Account JA-1 - Balance: $1697 [Transaction #62]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT3 withdraws $10 from Account JA-1 - Balance: $1687 [Transaction #63]
+
+Agent WT9 withdraws $11 from Account JA-1 - Balance: $1676 [Transaction #64]
+
+Agent WT10 withdraws $50 from Account JA-2 - Balance: $357 [Transaction #65]
+
+Agent WT2 withdraws $33 from Account JA-1 - Balance: $1643 [Transaction #66]
+
+Agent WT4 withdraws $55 from Account JA-2 - Balance: $302 [Transaction #67]
+
+Agent WT7 withdraws $78 from Account JA-1 - Balance: $1565 [Transaction #68]
+
+Agent WT1 withdraws $37 from Account JA-2 - Balance: $265 [Transaction #69]
+
+Agent WT8 withdraws $27 from Account JA-2 - Balance: $238 [Transaction #70]
+
+Agent WT1 withdraws $50 from Account JA-1 - Balance: $1515 [Transaction #71]
+
+Agent WT5 withdraws $8 from Account JA-1 - Balance: $1507 [Transaction #72]
+
+Agent WT7 withdraws $3 from Account JA-2 - Balance: $235 [Transaction #73]
+
+Agent WT6 withdraws $21 from Account JA-2 - Balance: $214 [Transaction #74]
+
+Agent WT8 withdraws $3 from Account JA-1 - Balance: $1504 [Transaction #75]
+
+Agent WT10 withdraws $35 from Account JA-1 - Balance: $1469 [Transaction #76]
+
+Agent WT2 withdraws $34 from Account JA-1 - Balance: $1435 [Transaction #77]
+
+Agent WT4 withdraws $42 from Account JA-2 - Balance: $172 [Transaction #78]
+
+Agent WT3 withdraws $90 from Account JA-2 - Balance: $82 [Transaction #79]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-2 exceeded $90. See log.
+
+Agent WT9 withdraws $54 from Account JA-2 - Balance: $28 [Transaction #80]
+
+Agent WT3 withdraws $63 from Account JA-1 - Balance: $1372 [Transaction #81]
+
+Agent WT1 withdraws $93 from Account JA-1 - Balance: $1279 [Transaction #82]
+
+* * * Flagged Transaction: Withdrawal by Agent WT1 in Account JA-1 exceeded $90. See log.
+
+Agent WT4 withdraws $25 from Account JA-2 - Balance: $3 [Transaction #83]
+
+Agent WT2 withdraws $90 from Account JA-1 - Balance: $1189 [Transaction #84]
+
+* * * Flagged Transaction: Withdrawal by Agent WT2 in Account JA-1 exceeded $90. See log.
+
+Agent DT3 deposits $459 into Account JA-2 - Balance: $462 [Transaction #85]
+
+
+* * * Flagged Transaction: Deposit by Agent DT3 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT6 withdraws $43 from Account JA-2 - Balance: $419 [Transaction #86]
+
+Agent WT7 withdraws $73 from Account JA-2 - Balance: $346 [Transaction #87]
+
+Agent WT10 withdraws $39 from Account JA-2 - Balance: $307 [Transaction #88]
+
+Agent WT3 withdraws $4 from Account JA-1 - Balance: $1185 [Transaction #89]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $1185 [Transactions since last audit: 30
+ JA-2 Balance: $307 [Transactions since last audit: 30]
+
+Agent WT5 withdraws $87 from Account JA-2 - Balance: $220 [Transaction #90]
+
+Agent WT6 withdraws $7 from Account JA-2 - Balance: $213 [Transaction #91]
+
+Agent WT3 withdraws $95 from Account JA-2 - Balance: $118 [Transaction #92]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-2 exceeded $90. See log.
+
+Agent DT1 deposits $586 into Account JA-1 - Balance: $1771 [Transaction #93]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT4 withdraws $3 from Account JA-2 - Balance: $115 [Transaction #94]
+
+Agent WT8 withdraws $17 from Account JA-2 - Balance: $98 [Transaction #95]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $1771 [Transactions since last audit: 60
+ JA-2 Balance: $98 [Transactions since last audit: 60]
+
+Agent WT1 withdraws $9 from Account JA-2 - Balance: $89 [Transaction #96]
+
+Agent WT2 withdraws $21 from Account JA-1 - Balance: $1750 [Transaction #97]
+
+Agent WT7 withdraws $48 from Account JA-2 - Balance: $41 [Transaction #98]
+
+Agent WT4 withdraws $27 from Account JA-1 - Balance: $1723 [Transaction #99]
+
+Agent WT9 withdraws $18 from Account JA-1 - Balance: $1705 [Transaction #100]
+
+Agent DT5 deposits $541 into Account JA-1 - Balance: $2246 [Transaction #101]
+
+
+* * * Flagged Transaction: Deposit by Agent DT5 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT4 withdraws $33 from Account JA-1 - Balance: $2213 [Transaction #102]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2213 [Transactions since last audit: 13
+ JA-2 Balance: $41 [Transactions since last audit: 13]
+
+Agent DT4 deposits $188 into Account JA-1 - Balance: $2401 [Transaction #103]
+
+Agent WT10 withdraws $57 from Account JA-1 - Balance: $2344 [Transaction #104]
+
+Agent WT8 withdraws $43 from Account JA-1 - Balance: $2301 [Transaction #105]
+
+Agent WT6 withdraws $7 from Account JA-2 - Balance: $34 [Transaction #106]
+
+Agent WT2 withdraws $14 from Account JA-2 - Balance: $20 [Transaction #107]
+
+Agent WT5 attempted to withdraw $29 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT9 attempted to withdraw $86 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT3 attempted to withdraw $54 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT8 attempted to withdraw $22 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT6 attempted to withdraw $99 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent TR2 attempted to transfer $377 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT1 attempted to withdraw $99 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT4 withdraws $9 from Account JA-2 - Balance: $11 [Transaction #108]
+
+Agent DT2 deposits $270 into Account JA-1 - Balance: $2571 [Transaction #109]
+
+Agent WT7 attempted to withdraw $90 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent DT1 deposits $77 into Account JA-1 - Balance: $2648 [Transaction #110]
+
+Agent TR1 attempted to transfer $461 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT2 withdraws $8 from Account JA-2 - Balance: $3 [Transaction #111]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2648 [Transactions since last audit: 9
+ JA-2 Balance: $3 [Transactions since last audit: 9]
+
+Agent WT10 withdraws $71 from Account JA-1 - Balance: $2577 [Transaction #112]
+
+Agent DT3 deposits $284 into Account JA-1 - Balance: $2861 [Transaction #113]
+
+Agent TR2 attempted to transfer $377 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT2 withdraws $62 from Account JA-1 - Balance: $2799 [Transaction #114]
+
+Agent WT4 withdraws $51 from Account JA-1 - Balance: $2748 [Transaction #115]
+
+Agent WT2 withdraws $18 from Account JA-1 - Balance: $2730 [Transaction #116]
+
+Agent DT1 deposits $511 into Account JA-2 - Balance: $514 [Transaction #117]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-2 exceeded $450. See log.
+
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-2 exceeded $90. See log.
+
+* * * Flagged Transaction: Withdrawal by Agent WT1 in Account JA-2 exceeded $90. See log.
+
+* * * Flagged Transaction: Withdrawal by Agent WT7 in Account JA-2 exceeded $90. See log.
+
+Agent TR2 transfers $377 from Account JA-2 to Account JA-1 - Source Balance: $137, Target Balance: $3107 [Transaction #118]
+
+Agent TR1 attempted to transfer $461 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent DT5 deposits $364 into Account JA-1 - Balance: $3471 [Transaction #119]
+
+Agent WT8 withdraws $62 from Account JA-1 - Balance: $3409 [Transaction #120]
+
+Agent WT1 withdraws $69 from Account JA-2 - Balance: $68 [Transaction #121]
+
+Agent WT10 attempted to withdraw $93 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT8 withdraws $54 from Account JA-1 - Balance: $3355 [Transaction #122]
+
+Agent WT7 withdraws $45 from Account JA-2 - Balance: $23 [Transaction #123]
+
+Agent WT1 withdraws $93 from Account JA-1 - Balance: $3262 [Transaction #124]
+
+* * * Flagged Transaction: Withdrawal by Agent WT1 in Account JA-1 exceeded $90. See log.
+
+Agent WT7 withdraws $28 from Account JA-1 - Balance: $3234 [Transaction #125]
+
+Agent DT1 deposits $399 into Account JA-1 - Balance: $3633 [Transaction #126]
+
+Agent WT2 withdraws $56 from Account JA-1 - Balance: $3577 [Transaction #127]
+
+Agent WT6 withdraws $29 from Account JA-1 - Balance: $3548 [Transaction #128]
+
+Agent WT7 attempted to withdraw $61 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent DT2 deposits $72 into Account JA-2 - Balance: $95 [Transaction #129]
+
+* * * Flagged Transaction: Withdrawal by Agent WT10 in Account JA-2 exceeded $90. See log.
+
+Agent WT2 withdraws $78 from Account JA-1 - Balance: $3470 [Transaction #130]
+
+Agent DT4 deposits $382 into Account JA-1 - Balance: $3852 [Transaction #131]
+
+Agent TR1 attempted to transfer $461 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT4 withdraws $56 from Account JA-1 - Balance: $3796 [Transaction #132]
+
+Agent WT9 withdraws $31 from Account JA-2 - Balance: $64 [Transaction #133]
+
+Agent TR2 transfers $235 from Account JA-1 to Account JA-2 - Source Balance: $3561, Target Balance: $299 [Transaction #134]
+
+Agent WT3 withdraws $39 from Account JA-2 - Balance: $260 [Transaction #135]
+
+Agent WT5 withdraws $5 from Account JA-1 - Balance: $3556 [Transaction #136]
+
+Agent WT2 withdraws $41 from Account JA-1 - Balance: $3515 [Transaction #137]
+
+Agent WT6 withdraws $65 from Account JA-1 - Balance: $3450 [Transaction #138]
+
+Agent WT8 withdraws $54 from Account JA-1 - Balance: $3396 [Transaction #139]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3396 [Transactions since last audit: 44
+ JA-2 Balance: $260 [Transactions since last audit: 44]
+
+Agent WT10 withdraws $91 from Account JA-1 - Balance: $3305 [Transaction #140]
+
+* * * Flagged Transaction: Withdrawal by Agent WT10 in Account JA-1 exceeded $90. See log.
+
+Agent WT7 withdraws $17 from Account JA-2 - Balance: $243 [Transaction #141]
+
+Agent DT5 deposits $195 into Account JA-1 - Balance: $3500 [Transaction #142]
+
+Agent TR2 attempted to transfer $269 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT1 withdraws $59 from Account JA-2 - Balance: $184 [Transaction #143]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3500 [Transactions since last audit: 32
+ JA-2 Balance: $184 [Transactions since last audit: 32]
+
+Agent TR1 attempted to transfer $461 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT9 withdraws $51 from Account JA-2 - Balance: $133 [Transaction #144]
+
+Agent WT4 withdraws $54 from Account JA-1 - Balance: $3446 [Transaction #145]
+
+Agent TR1 attempted to transfer $461 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT3 withdraws $69 from Account JA-2 - Balance: $64 [Transaction #146]
+
+Agent WT10 withdraws $66 from Account JA-1 - Balance: $3380 [Transaction #147]
+
+Agent WT9 withdraws $1 from Account JA-2 - Balance: $63 [Transaction #148]
+
+Agent WT7 withdraws $68 from Account JA-1 - Balance: $3312 [Transaction #149]
+
+Agent WT8 withdraws $46 from Account JA-2 - Balance: $17 [Transaction #150]
+
+Agent TR1 attempted to transfer $461 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT5 withdraws $1 from Account JA-1 - Balance: $3311 [Transaction #151]
+
+Agent DT4 deposits $203 into Account JA-1 - Balance: $3514 [Transaction #152]
+
+Agent WT6 attempted to withdraw $97 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT2 attempted to withdraw $83 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT1 withdraws $14 from Account JA-2 - Balance: $3 [Transaction #153]
+
+Agent WT10 withdraws $67 from Account JA-1 - Balance: $3447 [Transaction #154]
+
+Agent DT5 deposits $64 into Account JA-2 - Balance: $67 [Transaction #155]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-2 exceeded $90. See log.
+
+Agent TR2 attempted to transfer $269 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT4 withdraws $51 from Account JA-2 - Balance: $16 [Transaction #156]
+
+Agent WT2 withdraws $40 from Account JA-1 - Balance: $3407 [Transaction #157]
+
+Agent WT6 withdraws $5 from Account JA-2 - Balance: $11 [Transaction #158]
+
+Agent TR2 attempted to transfer $269 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent DT3 deposits $588 into Account JA-2 - Balance: $599 [Transaction #159]
+
+
+* * * Flagged Transaction: Deposit by Agent DT3 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT3 withdraws $75 from Account JA-2 - Balance: $524 [Transaction #160]
+
+Agent WT2 withdraws $96 from Account JA-2 - Balance: $428 [Transaction #161]
+
+* * * Flagged Transaction: Withdrawal by Agent WT2 in Account JA-2 exceeded $90. See log.
+
+Agent WT7 withdraws $82 from Account JA-1 - Balance: $3325 [Transaction #162]
+
+Agent WT10 withdraws $42 from Account JA-2 - Balance: $386 [Transaction #163]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3325 [Transactions since last audit: 20
+ JA-2 Balance: $386 [Transactions since last audit: 20]
+
+Agent WT4 withdraws $78 from Account JA-2 - Balance: $308 [Transaction #164]
+
+Agent WT8 withdraws $83 from Account JA-2 - Balance: $225 [Transaction #165]
+
+Agent WT1 withdraws $43 from Account JA-2 - Balance: $182 [Transaction #166]
+
+Agent WT5 withdraws $11 from Account JA-1 - Balance: $3314 [Transaction #167]
+
+Agent TR1 attempted to transfer $461 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT9 withdraws $75 from Account JA-2 - Balance: $107 [Transaction #168]
+
+Agent WT6 withdraws $53 from Account JA-1 - Balance: $3261 [Transaction #169]
+
+Agent DT2 deposits $275 into Account JA-1 - Balance: $3536 [Transaction #170]
+
+Agent TR2 attempted to transfer $269 from Account JA-2 - Blocked due to insufficient funds.
+
+Agent WT3 withdraws $23 from Account JA-2 - Balance: $84 [Transaction #171]
+
+Agent DT1 deposits $454 into Account JA-2 - Balance: $538 [Transaction #172]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT4 withdraws $41 from Account JA-2 - Balance: $497 [Transaction #173]
+
+Agent WT10 withdraws $16 from Account JA-1 - Balance: $3520 [Transaction #174]
+
+Agent WT2 withdraws $54 from Account JA-2 - Balance: $443 [Transaction #175]
+
+Agent WT6 withdraws $13 from Account JA-1 - Balance: $3507 [Transaction #176]
+
+Agent DT1 deposits $598 into Account JA-2 - Balance: $1041 [Transaction #177]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT7 withdraws $51 from Account JA-2 - Balance: $990 [Transaction #178]
+
+Agent WT10 withdraws $35 from Account JA-1 - Balance: $3472 [Transaction #179]
+
+Agent TR1 transfers $461 from Account JA-2 to Account JA-1 - Source Balance: $529, Target Balance: $3933 [Transaction #180]
+
+Agent WT5 withdraws $45 from Account JA-1 - Balance: $3888 [Transaction #181]
+
+Agent WT4 withdraws $25 from Account JA-1 - Balance: $3863 [Transaction #182]
+
+Agent DT5 deposits $448 into Account JA-2 - Balance: $977 [Transaction #183]
+
+Agent WT8 withdraws $54 from Account JA-2 - Balance: $923 [Transaction #184]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3863 [Transactions since last audit: 45
+ JA-2 Balance: $923 [Transactions since last audit: 45]
+
+Agent WT3 withdraws $31 from Account JA-1 - Balance: $3832 [Transaction #185]
+
+Agent WT9 withdraws $97 from Account JA-2 - Balance: $826 [Transaction #186]
+
+* * * Flagged Transaction: Withdrawal by Agent WT9 in Account JA-2 exceeded $90. See log.
+
+Agent WT1 withdraws $3 from Account JA-2 - Balance: $823 [Transaction #187]
+
+Agent WT4 withdraws $85 from Account JA-2 - Balance: $738 [Transaction #188]
+
+Agent WT2 withdraws $31 from Account JA-1 - Balance: $3801 [Transaction #189]
+
+Agent WT8 withdraws $52 from Account JA-2 - Balance: $686 [Transaction #190]
+
+Agent WT9 withdraws $58 from Account JA-1 - Balance: $3743 [Transaction #191]
+
+Agent WT6 withdraws $26 from Account JA-2 - Balance: $660 [Transaction #192]
+
+Agent WT10 withdraws $68 from Account JA-1 - Balance: $3675 [Transaction #193]
+
+Agent TR2 transfers $269 from Account JA-2 to Account JA-1 - Source Balance: $391, Target Balance: $3944 [Transaction #194]
+
+Agent WT2 withdraws $18 from Account JA-2 - Balance: $373 [Transaction #195]
+
+Agent DT3 deposits $401 into Account JA-1 - Balance: $4345 [Transaction #196]
+
+Agent WT5 withdraws $59 from Account JA-1 - Balance: $4286 [Transaction #197]
+
+Agent WT7 withdraws $88 from Account JA-1 - Balance: $4198 [Transaction #198]
+
+Agent DT5 deposits $318 into Account JA-2 - Balance: $691 [Transaction #199]
+
+Agent WT3 withdraws $93 from Account JA-1 - Balance: $4105 [Transaction #200]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-1 exceeded $90. See log.
+
+Agent WT4 withdraws $38 from Account JA-2 - Balance: $653 [Transaction #201]
+
+Agent TR1 transfers $58 from Account JA-2 to Account JA-1 - Source Balance: $595, Target Balance: $4163 [Transaction #202]
+
+Agent WT8 withdraws $96 from Account JA-2 - Balance: $499 [Transaction #203]
+
+* * * Flagged Transaction: Withdrawal by Agent WT8 in Account JA-2 exceeded $90. See log.
+
+Agent WT1 withdraws $14 from Account JA-2 - Balance: $485 [Transaction #204]
+
+Agent WT5 withdraws $40 from Account JA-2 - Balance: $445 [Transaction #205]
+
+Agent WT10 withdraws $78 from Account JA-2 - Balance: $367 [Transaction #206]
+
+Agent WT4 withdraws $73 from Account JA-1 - Balance: $4090 [Transaction #207]
+
+Agent DT1 deposits $474 into Account JA-2 - Balance: $841 [Transaction #208]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT9 withdraws $37 from Account JA-2 - Balance: $804 [Transaction #209]
+
+Agent WT7 withdraws $28 from Account JA-1 - Balance: $4062 [Transaction #210]
+
+Agent DT1 deposits $439 into Account JA-2 - Balance: $1243 [Transaction #211]
+
+Agent TR2 transfers $438 from Account JA-1 to Account JA-2 - Source Balance: $3624, Target Balance: $1681 [Transaction #212]
+
+Agent DT4 deposits $59 into Account JA-1 - Balance: $3683 [Transaction #213]
+
+Agent WT6 withdraws $12 from Account JA-1 - Balance: $3671 [Transaction #214]
+
+Agent WT2 withdraws $15 from Account JA-1 - Balance: $3656 [Transaction #215]
+
+Agent WT5 withdraws $13 from Account JA-2 - Balance: $1668 [Transaction #216]
+
+Agent WT10 withdraws $56 from Account JA-2 - Balance: $1612 [Transaction #217]
+
+Agent WT3 withdraws $76 from Account JA-1 - Balance: $3580 [Transaction #218]
+
+Agent DT1 deposits $578 into Account JA-1 - Balance: $4158 [Transaction #219]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT1 withdraws $21 from Account JA-1 - Balance: $4137 [Transaction #220]
+
+Agent DT2 deposits $232 into Account JA-2 - Balance: $1844 [Transaction #221]
+
+Agent WT8 withdraws $11 from Account JA-2 - Balance: $1833 [Transaction #222]
+
+Agent WT3 withdraws $8 from Account JA-1 - Balance: $4129 [Transaction #223]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $4129 [Transactions since last audit: 60
+ JA-2 Balance: $1833 [Transactions since last audit: 60]
+
+Agent WT2 withdraws $78 from Account JA-2 - Balance: $1755 [Transaction #224]
+
+Agent WT4 withdraws $71 from Account JA-2 - Balance: $1684 [Transaction #225]
+
+Agent WT6 withdraws $35 from Account JA-1 - Balance: $4094 [Transaction #226]
+
+Agent WT7 withdraws $13 from Account JA-2 - Balance: $1671 [Transaction #227]
+
+Agent WT1 withdraws $62 from Account JA-2 - Balance: $1609 [Transaction #228]
+
+Agent WT2 withdraws $58 from Account JA-2 - Balance: $1551 [Transaction #229]
+
+Agent WT9 withdraws $72 from Account JA-2 - Balance: $1479 [Transaction #230]
+
+Agent WT8 withdraws $4 from Account JA-2 - Balance: $1475 [Transaction #231]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $4094 [Transactions since last audit: 8
+ JA-2 Balance: $1475 [Transactions since last audit: 8]
+
+Agent WT3 withdraws $78 from Account JA-1 - Balance: $4016 [Transaction #232]
+
+Agent WT4 withdraws $37 from Account JA-2 - Balance: $1438 [Transaction #233]
+
+Agent WT10 withdraws $60 from Account JA-1 - Balance: $3956 [Transaction #234]
+
+Agent WT5 withdraws $2 from Account JA-1 - Balance: $3954 [Transaction #235]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3954 [Transactions since last audit: 51
+ JA-2 Balance: $1438 [Transactions since last audit: 51]
+
+Agent WT7 withdraws $65 from Account JA-1 - Balance: $3889 [Transaction #236]
+
+Agent DT4 deposits $250 into Account JA-2 - Balance: $1688 [Transaction #237]
+
+Agent TR1 transfers $423 from Account JA-1 to Account JA-2 - Source Balance: $3466, Target Balance: $2111 [Transaction #238]
+
+Agent WT6 withdraws $1 from Account JA-1 - Balance: $3465 [Transaction #239]
+
+Agent WT10 withdraws $30 from Account JA-2 - Balance: $2081 [Transaction #240]
+
+Agent WT7 withdraws $67 from Account JA-1 - Balance: $3398 [Transaction #241]
+
+Agent WT4 withdraws $24 from Account JA-1 - Balance: $3374 [Transaction #242]
+
+Agent DT5 deposits $387 into Account JA-1 - Balance: $3761 [Transaction #243]
+
+Agent WT6 withdraws $81 from Account JA-2 - Balance: $2000 [Transaction #244]
+
+Agent TR2 transfers $386 from Account JA-2 to Account JA-1 - Source Balance: $1614, Target Balance: $4147 [Transaction #245]
+
+Agent WT5 withdraws $99 from Account JA-2 - Balance: $1515 [Transaction #246]
+
+* * * Flagged Transaction: Withdrawal by Agent WT5 in Account JA-2 exceeded $90. See log.
+
+Agent WT3 withdraws $3 from Account JA-2 - Balance: $1512 [Transaction #247]
+
+Agent WT1 withdraws $85 from Account JA-2 - Balance: $1427 [Transaction #248]
+
+Agent WT2 withdraws $74 from Account JA-1 - Balance: $4073 [Transaction #249]
+
+Agent TR1 transfers $467 from Account JA-1 to Account JA-2 - Source Balance: $3606, Target Balance: $1894 [Transaction #250]
+
+Agent WT2 withdraws $12 from Account JA-1 - Balance: $3594 [Transaction #251]
+
+Agent TR1 transfers $162 from Account JA-1 to Account JA-2 - Source Balance: $3432, Target Balance: $2056 [Transaction #252]
+
+Agent WT9 withdraws $53 from Account JA-2 - Balance: $2003 [Transaction #253]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3432 [Transactions since last audit: 22
+ JA-2 Balance: $2003 [Transactions since last audit: 22]
+
+Agent WT8 withdraws $72 from Account JA-2 - Balance: $1931 [Transaction #254]
+
+Agent DT3 deposits $317 into Account JA-1 - Balance: $3749 [Transaction #255]
+
+Agent WT7 withdraws $33 from Account JA-1 - Balance: $3716 [Transaction #256]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3716 [Transactions since last audit: 21
+ JA-2 Balance: $1931 [Transactions since last audit: 21]
+
+Agent WT10 withdraws $34 from Account JA-2 - Balance: $1897 [Transaction #257]
+
+Agent DT4 deposits $387 into Account JA-2 - Balance: $2284 [Transaction #258]
+
+Agent DT5 deposits $491 into Account JA-1 - Balance: $4207 [Transaction #259]
+
+
+* * * Flagged Transaction: Deposit by Agent DT5 in Account JA-1 exceeded $450. See log.
+
+
+Agent DT2 deposits $93 into Account JA-1 - Balance: $4300 [Transaction #260]
+
+Agent WT6 withdraws $76 from Account JA-1 - Balance: $4224 [Transaction #261]
+
+Agent WT5 withdraws $2 from Account JA-2 - Balance: $2282 [Transaction #262]
+
+Agent WT4 withdraws $12 from Account JA-2 - Balance: $2270 [Transaction #263]
+
+Agent WT10 withdraws $29 from Account JA-2 - Balance: $2241 [Transaction #264]
+
+Agent WT3 withdraws $36 from Account JA-1 - Balance: $4188 [Transaction #265]
+
+Agent WT6 withdraws $59 from Account JA-1 - Balance: $4129 [Transaction #266]
+
+Agent WT2 withdraws $52 from Account JA-1 - Balance: $4077 [Transaction #267]
+
+Agent WT8 withdraws $42 from Account JA-1 - Balance: $4035 [Transaction #268]
+
+Agent WT1 withdraws $21 from Account JA-1 - Balance: $4014 [Transaction #269]
+
+Agent WT9 withdraws $83 from Account JA-1 - Balance: $3931 [Transaction #270]
+
+Agent DT3 deposits $70 into Account JA-2 - Balance: $2311 [Transaction #271]
+
+Agent DT1 deposits $474 into Account JA-2 - Balance: $2785 [Transaction #272]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT8 withdraws $38 from Account JA-2 - Balance: $2747 [Transaction #273]
+
+Agent WT7 withdraws $27 from Account JA-2 - Balance: $2720 [Transaction #274]
+
+Agent TR1 transfers $246 from Account JA-1 to Account JA-2 - Source Balance: $3685, Target Balance: $2966 [Transaction #275]
+
+Agent WT3 withdraws $74 from Account JA-1 - Balance: $3611 [Transaction #276]
+
+Agent WT3 withdraws $93 from Account JA-2 - Balance: $2873 [Transaction #277]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-2 exceeded $90. See log.
+
+Agent WT9 withdraws $30 from Account JA-2 - Balance: $2843 [Transaction #278]
+
+Agent WT6 withdraws $76 from Account JA-2 - Balance: $2767 [Transaction #279]
+
+Agent WT2 withdraws $87 from Account JA-1 - Balance: $3524 [Transaction #280]
+
+Agent WT10 withdraws $18 from Account JA-2 - Balance: $2749 [Transaction #281]
+
+Agent WT5 withdraws $43 from Account JA-1 - Balance: $3481 [Transaction #282]
+
+Agent WT1 withdraws $76 from Account JA-2 - Balance: $2673 [Transaction #283]
+
+Agent WT7 withdraws $97 from Account JA-2 - Balance: $2576 [Transaction #284]
+
+* * * Flagged Transaction: Withdrawal by Agent WT7 in Account JA-2 exceeded $90. See log.
+
+Agent WT8 withdraws $76 from Account JA-1 - Balance: $3405 [Transaction #285]
+
+Agent WT6 withdraws $13 from Account JA-2 - Balance: $2563 [Transaction #286]
+
+Agent WT4 withdraws $67 from Account JA-1 - Balance: $3338 [Transaction #287]
+
+Agent WT6 withdraws $12 from Account JA-2 - Balance: $2551 [Transaction #288]
+
+Agent WT3 withdraws $71 from Account JA-2 - Balance: $2480 [Transaction #289]
+
+Agent WT7 withdraws $71 from Account JA-1 - Balance: $3267 [Transaction #290]
+
+Agent WT9 withdraws $54 from Account JA-2 - Balance: $2426 [Transaction #291]
+
+Agent TR1 transfers $392 from Account JA-1 to Account JA-2 - Source Balance: $2875, Target Balance: $2818 [Transaction #292]
+
+Agent DT1 deposits $434 into Account JA-2 - Balance: $3252 [Transaction #293]
+
+Agent WT4 withdraws $79 from Account JA-2 - Balance: $3173 [Transaction #294]
+
+Agent TR2 transfers $478 from Account JA-1 to Account JA-2 - Source Balance: $2397, Target Balance: $3651 [Transaction #295]
+
+Agent WT6 withdraws $90 from Account JA-1 - Balance: $2307 [Transaction #296]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-1 exceeded $90. See log.
+
+Agent WT5 withdraws $15 from Account JA-2 - Balance: $3636 [Transaction #297]
+
+Agent WT10 withdraws $99 from Account JA-2 - Balance: $3537 [Transaction #298]
+
+* * * Flagged Transaction: Withdrawal by Agent WT10 in Account JA-2 exceeded $90. See log.
+
+Agent WT1 withdraws $17 from Account JA-1 - Balance: $2290 [Transaction #299]
+
+Agent WT4 withdraws $50 from Account JA-2 - Balance: $3487 [Transaction #300]
+
+Agent WT5 withdraws $26 from Account JA-1 - Balance: $2264 [Transaction #301]
+
+Agent WT8 withdraws $3 from Account JA-1 - Balance: $2261 [Transaction #302]
+
+Agent WT2 withdraws $19 from Account JA-2 - Balance: $3468 [Transaction #303]
+
+Agent TR2 transfers $308 from Account JA-2 to Account JA-1 - Source Balance: $3160, Target Balance: $2569 [Transaction #304]
+
+Agent DT5 deposits $195 into Account JA-1 - Balance: $2764 [Transaction #305]
+
+Agent WT9 withdraws $28 from Account JA-2 - Balance: $3132 [Transaction #306]
+
+Agent WT7 withdraws $54 from Account JA-1 - Balance: $2710 [Transaction #307]
+
+Agent WT3 withdraws $15 from Account JA-1 - Balance: $2695 [Transaction #308]
+
+Agent WT5 withdraws $26 from Account JA-1 - Balance: $2669 [Transaction #309]
+
+Agent DT4 deposits $526 into Account JA-2 - Balance: $3658 [Transaction #310]
+
+
+* * * Flagged Transaction: Deposit by Agent DT4 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT1 withdraws $73 from Account JA-2 - Balance: $3585 [Transaction #311]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2669 [Transactions since last audit: 58
+ JA-2 Balance: $3585 [Transactions since last audit: 58]
+
+Agent WT2 withdraws $17 from Account JA-2 - Balance: $3568 [Transaction #312]
+
+Agent WT6 withdraws $39 from Account JA-1 - Balance: $2630 [Transaction #313]
+
+Agent WT1 withdraws $87 from Account JA-2 - Balance: $3481 [Transaction #314]
+
+Agent WT10 withdraws $88 from Account JA-1 - Balance: $2542 [Transaction #315]
+
+Agent DT1 deposits $401 into Account JA-1 - Balance: $2943 [Transaction #316]
+
+Agent WT7 withdraws $47 from Account JA-2 - Balance: $3434 [Transaction #317]
+
+Agent WT4 withdraws $88 from Account JA-1 - Balance: $2855 [Transaction #318]
+
+Agent WT6 withdraws $62 from Account JA-2 - Balance: $3372 [Transaction #319]
+
+Agent WT3 withdraws $45 from Account JA-2 - Balance: $3327 [Transaction #320]
+
+Agent WT2 withdraws $52 from Account JA-2 - Balance: $3275 [Transaction #321]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2855 [Transactions since last audit: 65
+ JA-2 Balance: $3275 [Transactions since last audit: 65]
+
+Agent WT8 withdraws $74 from Account JA-2 - Balance: $3201 [Transaction #322]
+
+Agent WT5 withdraws $72 from Account JA-1 - Balance: $2783 [Transaction #323]
+
+Agent DT4 deposits $163 into Account JA-1 - Balance: $2946 [Transaction #324]
+
+Agent WT2 withdraws $5 from Account JA-1 - Balance: $2941 [Transaction #325]
+
+Agent WT3 withdraws $88 from Account JA-2 - Balance: $3113 [Transaction #326]
+
+Agent WT9 withdraws $97 from Account JA-2 - Balance: $3016 [Transaction #327]
+
+* * * Flagged Transaction: Withdrawal by Agent WT9 in Account JA-2 exceeded $90. See log.
+
+Agent WT6 withdraws $49 from Account JA-1 - Balance: $2892 [Transaction #328]
+
+Agent DT3 deposits $538 into Account JA-2 - Balance: $3554 [Transaction #329]
+
+
+* * * Flagged Transaction: Deposit by Agent DT3 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT5 withdraws $61 from Account JA-1 - Balance: $2831 [Transaction #330]
+
+Agent WT10 withdraws $11 from Account JA-2 - Balance: $3543 [Transaction #331]
+
+Agent DT2 deposits $331 into Account JA-1 - Balance: $3162 [Transaction #332]
+
+Agent WT7 withdraws $92 from Account JA-1 - Balance: $3070 [Transaction #333]
+
+* * * Flagged Transaction: Withdrawal by Agent WT7 in Account JA-1 exceeded $90. See log.
+
+Agent WT8 withdraws $4 from Account JA-2 - Balance: $3539 [Transaction #334]
+
+Agent WT3 withdraws $42 from Account JA-1 - Balance: $3028 [Transaction #335]
+
+Agent WT5 withdraws $34 from Account JA-2 - Balance: $3505 [Transaction #336]
+
+Agent WT9 withdraws $26 from Account JA-2 - Balance: $3479 [Transaction #337]
+
+Agent WT6 withdraws $81 from Account JA-1 - Balance: $2947 [Transaction #338]
+
+Agent WT3 withdraws $69 from Account JA-2 - Balance: $3410 [Transaction #339]
+
+Agent WT1 withdraws $27 from Account JA-1 - Balance: $2920 [Transaction #340]
+
+Agent WT2 withdraws $70 from Account JA-2 - Balance: $3340 [Transaction #341]
+
+Agent DT5 deposits $275 into Account JA-1 - Balance: $3195 [Transaction #342]
+
+Agent WT4 withdraws $67 from Account JA-2 - Balance: $3273 [Transaction #343]
+
+Agent WT6 withdraws $96 from Account JA-1 - Balance: $3099 [Transaction #344]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-1 exceeded $90. See log.
+
+Agent TR1 transfers $426 from Account JA-2 to Account JA-1 - Source Balance: $2847, Target Balance: $3525 [Transaction #345]
+
+Agent TR2 transfers $299 from Account JA-1 to Account JA-2 - Source Balance: $3226, Target Balance: $3146 [Transaction #346]
+
+Agent WT1 withdraws $80 from Account JA-2 - Balance: $3066 [Transaction #347]
+
+Agent WT8 withdraws $86 from Account JA-1 - Balance: $3140 [Transaction #348]
+
+Agent WT2 withdraws $27 from Account JA-1 - Balance: $3113 [Transaction #349]
+
+Agent WT3 withdraws $74 from Account JA-2 - Balance: $2992 [Transaction #350]
+
+Agent WT10 withdraws $98 from Account JA-1 - Balance: $3015 [Transaction #351]
+
+* * * Flagged Transaction: Withdrawal by Agent WT10 in Account JA-1 exceeded $90. See log.
+
+Agent WT9 withdraws $58 from Account JA-1 - Balance: $2957 [Transaction #352]
+
+Agent WT7 withdraws $39 from Account JA-1 - Balance: $2918 [Transaction #353]
+
+Agent WT10 withdraws $30 from Account JA-2 - Balance: $2962 [Transaction #354]
+
+Agent WT2 withdraws $91 from Account JA-2 - Balance: $2871 [Transaction #355]
+
+* * * Flagged Transaction: Withdrawal by Agent WT2 in Account JA-2 exceeded $90. See log.
+
+Agent WT5 withdraws $81 from Account JA-2 - Balance: $2790 [Transaction #356]
+
+Agent WT9 withdraws $37 from Account JA-1 - Balance: $2881 [Transaction #357]
+
+Agent WT1 withdraws $28 from Account JA-1 - Balance: $2853 [Transaction #358]
+
+Agent WT6 withdraws $11 from Account JA-2 - Balance: $2779 [Transaction #359]
+
+Agent TR2 transfers $483 from Account JA-1 to Account JA-2 - Source Balance: $2370, Target Balance: $3262 [Transaction #360]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2370 [Transactions since last audit: 49
+ JA-2 Balance: $3262 [Transactions since last audit: 49]
+
+Agent WT4 withdraws $95 from Account JA-1 - Balance: $2275 [Transaction #361]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-1 exceeded $90. See log.
+
+Agent WT8 withdraws $44 from Account JA-2 - Balance: $3218 [Transaction #362]
+
+Agent DT3 deposits $557 into Account JA-2 - Balance: $3775 [Transaction #363]
+
+
+* * * Flagged Transaction: Deposit by Agent DT3 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT9 withdraws $81 from Account JA-2 - Balance: $3694 [Transaction #364]
+
+Agent WT6 withdraws $39 from Account JA-1 - Balance: $2236 [Transaction #365]
+
+Agent WT10 withdraws $80 from Account JA-1 - Balance: $2156 [Transaction #366]
+
+Agent DT1 deposits $355 into Account JA-1 - Balance: $2511 [Transaction #367]
+
+Agent WT9 withdraws $68 from Account JA-2 - Balance: $3626 [Transaction #368]
+
+Agent WT3 withdraws $98 from Account JA-1 - Balance: $2413 [Transaction #369]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-1 exceeded $90. See log.
+
+Agent WT7 withdraws $22 from Account JA-1 - Balance: $2391 [Transaction #370]
+
+Agent WT10 withdraws $34 from Account JA-1 - Balance: $2357 [Transaction #371]
+
+Agent WT6 withdraws $90 from Account JA-2 - Balance: $3536 [Transaction #372]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-2 exceeded $90. See log.
+
+Agent WT2 withdraws $99 from Account JA-1 - Balance: $2258 [Transaction #373]
+
+* * * Flagged Transaction: Withdrawal by Agent WT2 in Account JA-1 exceeded $90. See log.
+
+Agent WT5 withdraws $29 from Account JA-1 - Balance: $2229 [Transaction #374]
+
+Agent WT4 withdraws $14 from Account JA-1 - Balance: $2215 [Transaction #375]
+
+Agent WT10 withdraws $92 from Account JA-1 - Balance: $2123 [Transaction #376]
+
+* * * Flagged Transaction: Withdrawal by Agent WT10 in Account JA-1 exceeded $90. See log.
+
+Agent DT4 deposits $537 into Account JA-2 - Balance: $4073 [Transaction #377]
+
+
+* * * Flagged Transaction: Deposit by Agent DT4 in Account JA-2 exceeded $450. See log.
+
+
+Agent TR2 transfers $426 from Account JA-1 to Account JA-2 - Source Balance: $1697, Target Balance: $4499 [Transaction #378]
+
+Agent WT8 withdraws $39 from Account JA-2 - Balance: $4460 [Transaction #379]
+
+Agent WT1 withdraws $84 from Account JA-1 - Balance: $1613 [Transaction #380]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $1613 [Transactions since last audit: 20
+ JA-2 Balance: $4460 [Transactions since last audit: 20]
+
+Agent WT6 withdraws $32 from Account JA-2 - Balance: $4428 [Transaction #381]
+
+Agent WT2 withdraws $13 from Account JA-1 - Balance: $1600 [Transaction #382]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $1600 [Transactions since last audit: 61
+ JA-2 Balance: $4428 [Transactions since last audit: 61]
+
+Agent WT4 withdraws $90 from Account JA-2 - Balance: $4338 [Transaction #383]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-2 exceeded $90. See log.
+
+Agent DT2 deposits $578 into Account JA-1 - Balance: $2178 [Transaction #384]
+
+
+* * * Flagged Transaction: Deposit by Agent DT2 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT4 withdraws $69 from Account JA-2 - Balance: $4269 [Transaction #385]
+
+Agent WT7 withdraws $91 from Account JA-1 - Balance: $2087 [Transaction #386]
+
+* * * Flagged Transaction: Withdrawal by Agent WT7 in Account JA-1 exceeded $90. See log.
+
+Agent WT5 withdraws $75 from Account JA-1 - Balance: $2012 [Transaction #387]
+
+Agent WT10 withdraws $12 from Account JA-2 - Balance: $4257 [Transaction #388]
+
+Agent DT5 deposits $286 into Account JA-1 - Balance: $2298 [Transaction #389]
+
+Agent TR2 transfers $109 from Account JA-1 to Account JA-2 - Source Balance: $2189, Target Balance: $4366 [Transaction #390]
+
+Agent WT2 withdraws $53 from Account JA-1 - Balance: $2136 [Transaction #391]
+
+Agent WT9 withdraws $38 from Account JA-1 - Balance: $2098 [Transaction #392]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2098 [Transactions since last audit: 10
+ JA-2 Balance: $4366 [Transactions since last audit: 10]
+
+Agent WT6 withdraws $75 from Account JA-2 - Balance: $4291 [Transaction #393]
+
+Agent WT3 withdraws $88 from Account JA-2 - Balance: $4203 [Transaction #394]
+
+Agent WT1 withdraws $26 from Account JA-2 - Balance: $4177 [Transaction #395]
+
+Agent WT10 withdraws $22 from Account JA-1 - Balance: $2076 [Transaction #396]
+
+Agent WT8 withdraws $84 from Account JA-1 - Balance: $1992 [Transaction #397]
+
+Agent WT7 withdraws $9 from Account JA-1 - Balance: $1983 [Transaction #398]
+
+Agent DT2 deposits $297 into Account JA-1 - Balance: $2280 [Transaction #399]
+
+Agent WT3 withdraws $78 from Account JA-2 - Balance: $4099 [Transaction #400]
+
+Agent WT1 withdraws $19 from Account JA-1 - Balance: $2261 [Transaction #401]
+
+Agent WT8 withdraws $12 from Account JA-2 - Balance: $4087 [Transaction #402]
+
+Agent WT1 withdraws $42 from Account JA-2 - Balance: $4045 [Transaction #403]
+
+Agent WT10 withdraws $28 from Account JA-1 - Balance: $2233 [Transaction #404]
+
+Agent WT4 withdraws $93 from Account JA-2 - Balance: $3952 [Transaction #405]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-2 exceeded $90. See log.
+
+Agent DT3 deposits $170 into Account JA-1 - Balance: $2403 [Transaction #406]
+
+Agent WT2 withdraws $2 from Account JA-1 - Balance: $2401 [Transaction #407]
+
+Agent DT4 deposits $516 into Account JA-1 - Balance: $2917 [Transaction #408]
+
+
+* * * Flagged Transaction: Deposit by Agent DT4 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT5 withdraws $79 from Account JA-2 - Balance: $3873 [Transaction #409]
+
+Agent WT9 withdraws $68 from Account JA-2 - Balance: $3805 [Transaction #410]
+
+Agent DT2 deposits $501 into Account JA-1 - Balance: $3418 [Transaction #411]
+
+
+* * * Flagged Transaction: Deposit by Agent DT2 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT7 withdraws $82 from Account JA-1 - Balance: $3336 [Transaction #412]
+
+Agent TR1 transfers $459 from Account JA-2 to Account JA-1 - Source Balance: $3346, Target Balance: $3795 [Transaction #413]
+
+Agent WT6 withdraws $78 from Account JA-1 - Balance: $3717 [Transaction #414]
+
+Agent WT10 withdraws $72 from Account JA-2 - Balance: $3274 [Transaction #415]
+
+Agent WT8 withdraws $68 from Account JA-1 - Balance: $3649 [Transaction #416]
+
+Agent WT9 withdraws $22 from Account JA-2 - Balance: $3252 [Transaction #417]
+
+Agent WT7 withdraws $59 from Account JA-2 - Balance: $3193 [Transaction #418]
+
+Agent DT5 deposits $374 into Account JA-2 - Balance: $3567 [Transaction #419]
+
+Agent WT6 withdraws $53 from Account JA-2 - Balance: $3514 [Transaction #420]
+
+Agent WT5 withdraws $83 from Account JA-1 - Balance: $3566 [Transaction #421]
+
+Agent WT3 withdraws $2 from Account JA-2 - Balance: $3512 [Transaction #422]
+
+Agent WT2 withdraws $69 from Account JA-2 - Balance: $3443 [Transaction #423]
+
+Agent WT7 withdraws $11 from Account JA-2 - Balance: $3432 [Transaction #424]
+
+Agent DT2 deposits $179 into Account JA-2 - Balance: $3611 [Transaction #425]
+
+Agent WT4 withdraws $7 from Account JA-1 - Balance: $3559 [Transaction #426]
+
+Agent WT1 withdraws $47 from Account JA-1 - Balance: $3512 [Transaction #427]
+
+Agent WT7 withdraws $64 from Account JA-2 - Balance: $3547 [Transaction #428]
+
+Agent WT5 withdraws $9 from Account JA-1 - Balance: $3503 [Transaction #429]
+
+Agent WT8 withdraws $25 from Account JA-2 - Balance: $3522 [Transaction #430]
+
+Agent DT2 deposits $472 into Account JA-2 - Balance: $3994 [Transaction #431]
+
+
+* * * Flagged Transaction: Deposit by Agent DT2 in Account JA-2 exceeded $450. See log.
+
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3503 [Transactions since last audit: 51
+ JA-2 Balance: $3994 [Transactions since last audit: 51]
+
+Agent WT6 withdraws $74 from Account JA-1 - Balance: $3429 [Transaction #432]
+
+Agent WT1 withdraws $6 from Account JA-2 - Balance: $3988 [Transaction #433]
+
+Agent DT1 deposits $489 into Account JA-1 - Balance: $3918 [Transaction #434]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT3 withdraws $49 from Account JA-2 - Balance: $3939 [Transaction #435]
+
+Agent WT10 withdraws $71 from Account JA-2 - Balance: $3868 [Transaction #436]
+
+Agent WT9 withdraws $95 from Account JA-2 - Balance: $3773 [Transaction #437]
+
+* * * Flagged Transaction: Withdrawal by Agent WT9 in Account JA-2 exceeded $90. See log.
+
+Agent TR2 transfers $61 from Account JA-2 to Account JA-1 - Source Balance: $3712, Target Balance: $3979 [Transaction #438]
+
+Agent WT2 withdraws $48 from Account JA-2 - Balance: $3664 [Transaction #439]
+
+Agent WT4 withdraws $84 from Account JA-1 - Balance: $3895 [Transaction #440]
+
+Agent WT7 withdraws $10 from Account JA-1 - Balance: $3885 [Transaction #441]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3885 [Transactions since last audit: 10
+ JA-2 Balance: $3664 [Transactions since last audit: 10]
+
+Agent WT9 withdraws $96 from Account JA-2 - Balance: $3568 [Transaction #442]
+
+* * * Flagged Transaction: Withdrawal by Agent WT9 in Account JA-2 exceeded $90. See log.
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3885 [Transactions since last audit: 50
+ JA-2 Balance: $3568 [Transactions since last audit: 50]
+
+Agent WT9 withdraws $25 from Account JA-1 - Balance: $3860 [Transaction #443]
+
+Agent DT1 deposits $289 into Account JA-2 - Balance: $3857 [Transaction #444]
+
+Agent WT1 withdraws $71 from Account JA-2 - Balance: $3786 [Transaction #445]
+
+Agent WT6 withdraws $84 from Account JA-1 - Balance: $3776 [Transaction #446]
+
+Agent DT2 deposits $197 into Account JA-2 - Balance: $3983 [Transaction #447]
+
+Agent WT5 withdraws $90 from Account JA-2 - Balance: $3893 [Transaction #448]
+
+* * * Flagged Transaction: Withdrawal by Agent WT5 in Account JA-2 exceeded $90. See log.
+
+Agent WT9 withdraws $27 from Account JA-2 - Balance: $3866 [Transaction #449]
+
+Agent WT8 withdraws $63 from Account JA-1 - Balance: $3713 [Transaction #450]
+
+Agent WT2 withdraws $68 from Account JA-1 - Balance: $3645 [Transaction #451]
+
+Agent WT5 withdraws $60 from Account JA-2 - Balance: $3806 [Transaction #452]
+
+Agent WT10 withdraws $89 from Account JA-1 - Balance: $3556 [Transaction #453]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3556 [Transactions since last audit: 11
+ JA-2 Balance: $3806 [Transactions since last audit: 11]
+
+Agent WT8 withdraws $15 from Account JA-2 - Balance: $3791 [Transaction #454]
+
+Agent WT3 withdraws $57 from Account JA-1 - Balance: $3499 [Transaction #455]
+
+Agent WT4 withdraws $60 from Account JA-2 - Balance: $3731 [Transaction #456]
+
+Agent WT10 withdraws $12 from Account JA-2 - Balance: $3719 [Transaction #457]
+
+Agent DT4 deposits $228 into Account JA-2 - Balance: $3947 [Transaction #458]
+
+Agent WT5 withdraws $70 from Account JA-2 - Balance: $3877 [Transaction #459]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3499 [Transactions since last audit: 18
+ JA-2 Balance: $3877 [Transactions since last audit: 18]
+
+Agent DT2 deposits $154 into Account JA-2 - Balance: $4031 [Transaction #460]
+
+Agent WT7 withdraws $20 from Account JA-2 - Balance: $4011 [Transaction #461]
+
+Agent WT9 withdraws $17 from Account JA-1 - Balance: $3482 [Transaction #462]
+
+Agent WT4 withdraws $86 from Account JA-2 - Balance: $3925 [Transaction #463]
+
+Agent WT6 withdraws $94 from Account JA-1 - Balance: $3388 [Transaction #464]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-1 exceeded $90. See log.
+
+Agent WT10 withdraws $75 from Account JA-1 - Balance: $3313 [Transaction #465]
+
+Agent WT2 withdraws $4 from Account JA-1 - Balance: $3309 [Transaction #466]
+
+Agent WT1 withdraws $45 from Account JA-2 - Balance: $3880 [Transaction #467]
+
+Agent TR1 transfers $150 from Account JA-2 to Account JA-1 - Source Balance: $3730, Target Balance: $3459 [Transaction #468]
+
+Agent WT8 withdraws $93 from Account JA-1 - Balance: $3366 [Transaction #469]
+
+* * * Flagged Transaction: Withdrawal by Agent WT8 in Account JA-1 exceeded $90. See log.
+
+Agent WT5 withdraws $17 from Account JA-1 - Balance: $3349 [Transaction #470]
+
+Agent WT7 withdraws $38 from Account JA-2 - Balance: $3692 [Transaction #471]
+
+Agent WT1 withdraws $6 from Account JA-1 - Balance: $3343 [Transaction #472]
+
+Agent WT3 withdraws $3 from Account JA-2 - Balance: $3689 [Transaction #473]
+
+Agent DT3 deposits $124 into Account JA-1 - Balance: $3467 [Transaction #474]
+
+Agent WT8 withdraws $36 from Account JA-1 - Balance: $3431 [Transaction #475]
+
+Agent WT4 withdraws $90 from Account JA-2 - Balance: $3599 [Transaction #476]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-2 exceeded $90. See log.
+
+Agent DT5 deposits $353 into Account JA-1 - Balance: $3784 [Transaction #477]
+
+Agent DT1 deposits $335 into Account JA-1 - Balance: $4119 [Transaction #478]
+
+Agent WT6 withdraws $4 from Account JA-2 - Balance: $3595 [Transaction #479]
+
+Agent WT10 withdraws $53 from Account JA-1 - Balance: $4066 [Transaction #480]
+
+Agent WT9 withdraws $84 from Account JA-1 - Balance: $3982 [Transaction #481]
+
+Agent WT7 withdraws $80 from Account JA-2 - Balance: $3515 [Transaction #482]
+
+Agent TR1 transfers $535 from Account JA-1 to Account JA-2 - Source Balance: $3447, Target Balance: $4050 [Transaction #483]
+
+Agent WT1 withdraws $28 from Account JA-1 - Balance: $3419 [Transaction #484]
+
+Agent DT4 deposits $196 into Account JA-1 - Balance: $3615 [Transaction #485]
+
+Agent WT2 withdraws $44 from Account JA-2 - Balance: $4006 [Transaction #486]
+
+Agent WT4 withdraws $59 from Account JA-2 - Balance: $3947 [Transaction #487]
+
+Agent WT8 withdraws $87 from Account JA-2 - Balance: $3860 [Transaction #488]
+
+Agent WT1 withdraws $7 from Account JA-1 - Balance: $3608 [Transaction #489]
+
+Agent WT5 withdraws $67 from Account JA-1 - Balance: $3541 [Transaction #490]
+
+Agent DT2 deposits $444 into Account JA-2 - Balance: $4304 [Transaction #491]
+
+Agent DT1 deposits $444 into Account JA-1 - Balance: $3985 [Transaction #492]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3985 [Transactions since last audit: 33
+ JA-2 Balance: $4304 [Transactions since last audit: 33]
+
+Agent WT6 withdraws $91 from Account JA-1 - Balance: $3894 [Transaction #493]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-1 exceeded $90. See log.
+
+Agent WT2 withdraws $53 from Account JA-2 - Balance: $4251 [Transaction #494]
+
+Agent WT10 withdraws $97 from Account JA-1 - Balance: $3797 [Transaction #495]
+
+* * * Flagged Transaction: Withdrawal by Agent WT10 in Account JA-1 exceeded $90. See log.
+
+Agent WT3 withdraws $15 from Account JA-2 - Balance: $4236 [Transaction #496]
+
+Agent DT3 deposits $489 into Account JA-2 - Balance: $4725 [Transaction #497]
+
+
+* * * Flagged Transaction: Deposit by Agent DT3 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT9 withdraws $41 from Account JA-1 - Balance: $3756 [Transaction #498]
+
+Agent WT7 withdraws $82 from Account JA-2 - Balance: $4643 [Transaction #499]
+
+Agent WT4 withdraws $94 from Account JA-2 - Balance: $4549 [Transaction #500]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-2 exceeded $90. See log.
+
+Agent WT1 withdraws $58 from Account JA-2 - Balance: $4491 [Transaction #501]
+
+Agent WT8 withdraws $30 from Account JA-1 - Balance: $3726 [Transaction #502]
+
+Agent DT4 deposits $52 into Account JA-2 - Balance: $4543 [Transaction #503]
+
+Agent WT1 withdraws $97 from Account JA-2 - Balance: $4446 [Transaction #504]
+
+* * * Flagged Transaction: Withdrawal by Agent WT1 in Account JA-2 exceeded $90. See log.
+
+Agent WT3 withdraws $20 from Account JA-1 - Balance: $3706 [Transaction #505]
+
+Agent WT1 withdraws $54 from Account JA-2 - Balance: $4392 [Transaction #506]
+
+Agent WT10 withdraws $54 from Account JA-2 - Balance: $4338 [Transaction #507]
+
+Agent WT6 withdraws $91 from Account JA-1 - Balance: $3615 [Transaction #508]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-1 exceeded $90. See log.
+
+Agent WT5 withdraws $55 from Account JA-2 - Balance: $4283 [Transaction #509]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3615 [Transactions since last audit: 56
+ JA-2 Balance: $4283 [Transactions since last audit: 56]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3615 [Transactions since last audit: 17
+ JA-2 Balance: $4283 [Transactions since last audit: 17]
+
+Agent WT3 withdraws $96 from Account JA-1 - Balance: $3519 [Transaction #510]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-1 exceeded $90. See log.
+
+Agent WT1 withdraws $61 from Account JA-1 - Balance: $3458 [Transaction #511]
+
+Agent WT9 withdraws $68 from Account JA-1 - Balance: $3390 [Transaction #512]
+
+Agent WT2 withdraws $98 from Account JA-2 - Balance: $4185 [Transaction #513]
+
+* * * Flagged Transaction: Withdrawal by Agent WT2 in Account JA-2 exceeded $90. See log.
+
+Agent WT10 withdraws $94 from Account JA-2 - Balance: $4091 [Transaction #514]
+
+* * * Flagged Transaction: Withdrawal by Agent WT10 in Account JA-2 exceeded $90. See log.
+
+Agent WT9 withdraws $50 from Account JA-2 - Balance: $4041 [Transaction #515]
+
+Agent WT4 withdraws $70 from Account JA-1 - Balance: $3320 [Transaction #516]
+
+Agent WT7 withdraws $9 from Account JA-2 - Balance: $4032 [Transaction #517]
+
+Agent WT1 withdraws $1 from Account JA-1 - Balance: $3319 [Transaction #518]
+
+Agent WT2 withdraws $73 from Account JA-2 - Balance: $3959 [Transaction #519]
+
+Agent WT9 withdraws $22 from Account JA-2 - Balance: $3937 [Transaction #520]
+
+Agent TR2 transfers $208 from Account JA-2 to Account JA-1 - Source Balance: $3729, Target Balance: $3527 [Transaction #521]
+
+Agent DT4 deposits $33 into Account JA-2 - Balance: $3762 [Transaction #522]
+
+Agent WT4 withdraws $75 from Account JA-2 - Balance: $3687 [Transaction #523]
+
+Agent WT3 withdraws $28 from Account JA-1 - Balance: $3499 [Transaction #524]
+
+Agent WT10 withdraws $53 from Account JA-1 - Balance: $3446 [Transaction #525]
+
+Agent WT8 withdraws $39 from Account JA-2 - Balance: $3648 [Transaction #526]
+
+Agent WT1 withdraws $25 from Account JA-1 - Balance: $3421 [Transaction #527]
+
+Agent WT5 withdraws $15 from Account JA-2 - Balance: $3633 [Transaction #528]
+
+Agent WT6 withdraws $46 from Account JA-2 - Balance: $3587 [Transaction #529]
+
+Agent WT4 withdraws $87 from Account JA-2 - Balance: $3500 [Transaction #530]
+
+Agent DT5 deposits $214 into Account JA-1 - Balance: $3635 [Transaction #531]
+
+Agent WT9 withdraws $97 from Account JA-2 - Balance: $3403 [Transaction #532]
+
+* * * Flagged Transaction: Withdrawal by Agent WT9 in Account JA-2 exceeded $90. See log.
+
+Agent WT8 withdraws $20 from Account JA-2 - Balance: $3383 [Transaction #533]
+
+Agent WT7 withdraws $70 from Account JA-1 - Balance: $3565 [Transaction #534]
+
+Agent WT2 withdraws $64 from Account JA-1 - Balance: $3501 [Transaction #535]
+
+Agent WT4 withdraws $13 from Account JA-1 - Balance: $3488 [Transaction #536]
+
+Agent TR1 transfers $86 from Account JA-1 to Account JA-2 - Source Balance: $3402, Target Balance: $3469 [Transaction #537]
+
+Agent WT6 withdraws $5 from Account JA-2 - Balance: $3464 [Transaction #538]
+
+Agent WT3 withdraws $34 from Account JA-1 - Balance: $3368 [Transaction #539]
+
+Agent TR2 transfers $125 from Account JA-1 to Account JA-2 - Source Balance: $3243, Target Balance: $3589 [Transaction #540]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3243 [Transactions since last audit: 31
+ JA-2 Balance: $3589 [Transactions since last audit: 31]
+
+Agent WT4 withdraws $41 from Account JA-2 - Balance: $3548 [Transaction #541]
+
+Agent WT6 withdraws $64 from Account JA-1 - Balance: $3179 [Transaction #542]
+
+Agent WT10 withdraws $88 from Account JA-1 - Balance: $3091 [Transaction #543]
+
+Agent WT7 withdraws $37 from Account JA-2 - Balance: $3511 [Transaction #544]
+
+Agent WT1 withdraws $54 from Account JA-1 - Balance: $3037 [Transaction #545]
+
+Agent WT5 withdraws $95 from Account JA-1 - Balance: $2942 [Transaction #546]
+
+* * * Flagged Transaction: Withdrawal by Agent WT5 in Account JA-1 exceeded $90. See log.
+
+Agent DT2 deposits $548 into Account JA-1 - Balance: $3490 [Transaction #547]
+
+
+* * * Flagged Transaction: Deposit by Agent DT2 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT10 withdraws $43 from Account JA-2 - Balance: $3468 [Transaction #548]
+
+Agent DT1 deposits $166 into Account JA-2 - Balance: $3634 [Transaction #549]
+
+Agent WT3 withdraws $10 from Account JA-2 - Balance: $3624 [Transaction #550]
+
+Agent WT2 withdraws $15 from Account JA-2 - Balance: $3609 [Transaction #551]
+
+Agent WT8 withdraws $42 from Account JA-2 - Balance: $3567 [Transaction #552]
+
+Agent WT9 withdraws $25 from Account JA-2 - Balance: $3542 [Transaction #553]
+
+Agent WT6 withdraws $2 from Account JA-2 - Balance: $3540 [Transaction #554]
+
+Agent WT3 withdraws $50 from Account JA-1 - Balance: $3440 [Transaction #555]
+
+Agent WT10 withdraws $43 from Account JA-2 - Balance: $3497 [Transaction #556]
+
+Agent DT3 deposits $122 into Account JA-2 - Balance: $3619 [Transaction #557]
+
+Agent WT9 withdraws $70 from Account JA-2 - Balance: $3549 [Transaction #558]
+
+Agent WT6 withdraws $55 from Account JA-1 - Balance: $3385 [Transaction #559]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3385 [Transactions since last audit: 50
+ JA-2 Balance: $3549 [Transactions since last audit: 50]
+
+Agent WT5 withdraws $51 from Account JA-1 - Balance: $3334 [Transaction #560]
+
+Agent WT2 withdraws $85 from Account JA-2 - Balance: $3464 [Transaction #561]
+
+Agent WT1 withdraws $25 from Account JA-2 - Balance: $3439 [Transaction #562]
+
+Agent WT4 withdraws $50 from Account JA-1 - Balance: $3284 [Transaction #563]
+
+Agent WT2 withdraws $63 from Account JA-1 - Balance: $3221 [Transaction #564]
+
+Agent DT3 deposits $218 into Account JA-2 - Balance: $3657 [Transaction #565]
+
+Agent WT7 withdraws $17 from Account JA-1 - Balance: $3204 [Transaction #566]
+
+Agent WT1 withdraws $25 from Account JA-1 - Balance: $3179 [Transaction #567]
+
+Agent WT8 withdraws $55 from Account JA-2 - Balance: $3602 [Transaction #568]
+
+Agent WT3 withdraws $21 from Account JA-1 - Balance: $3158 [Transaction #569]
+
+Agent DT5 deposits $411 into Account JA-1 - Balance: $3569 [Transaction #570]
+
+Agent WT2 withdraws $85 from Account JA-1 - Balance: $3484 [Transaction #571]
+
+Agent WT4 withdraws $71 from Account JA-2 - Balance: $3531 [Transaction #572]
+
+Agent WT6 withdraws $98 from Account JA-1 - Balance: $3386 [Transaction #573]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-1 exceeded $90. See log.
+
+Agent WT10 withdraws $88 from Account JA-1 - Balance: $3298 [Transaction #574]
+
+Agent WT9 withdraws $56 from Account JA-2 - Balance: $3475 [Transaction #575]
+
+Agent WT2 withdraws $2 from Account JA-1 - Balance: $3296 [Transaction #576]
+
+Agent TR1 transfers $413 from Account JA-2 to Account JA-1 - Source Balance: $3062, Target Balance: $3709 [Transaction #577]
+
+Agent WT5 withdraws $6 from Account JA-1 - Balance: $3703 [Transaction #578]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3703 [Transactions since last audit: 19
+ JA-2 Balance: $3062 [Transactions since last audit: 19]
+
+Agent WT4 withdraws $39 from Account JA-1 - Balance: $3664 [Transaction #579]
+
+Agent WT10 withdraws $66 from Account JA-2 - Balance: $2996 [Transaction #580]
+
+Agent WT8 withdraws $77 from Account JA-2 - Balance: $2919 [Transaction #581]
+
+Agent WT1 withdraws $65 from Account JA-2 - Balance: $2854 [Transaction #582]
+
+Agent WT6 withdraws $75 from Account JA-1 - Balance: $3589 [Transaction #583]
+
+Agent DT4 deposits $83 into Account JA-2 - Balance: $2937 [Transaction #584]
+
+Agent WT7 withdraws $89 from Account JA-2 - Balance: $2848 [Transaction #585]
+
+Agent WT3 withdraws $4 from Account JA-2 - Balance: $2844 [Transaction #586]
+
+Agent WT2 withdraws $58 from Account JA-1 - Balance: $3531 [Transaction #587]
+
+Agent DT5 deposits $66 into Account JA-1 - Balance: $3597 [Transaction #588]
+
+Agent WT9 withdraws $73 from Account JA-2 - Balance: $2771 [Transaction #589]
+
+Agent TR1 transfers $439 from Account JA-1 to Account JA-2 - Source Balance: $3158, Target Balance: $3210 [Transaction #590]
+
+Agent WT8 withdraws $83 from Account JA-1 - Balance: $3075 [Transaction #591]
+
+Agent DT2 deposits $505 into Account JA-1 - Balance: $3580 [Transaction #592]
+
+
+* * * Flagged Transaction: Deposit by Agent DT2 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT5 withdraws $16 from Account JA-2 - Balance: $3194 [Transaction #593]
+
+Agent WT2 withdraws $49 from Account JA-1 - Balance: $3531 [Transaction #594]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3531 [Transactions since last audit: 54
+ JA-2 Balance: $3194 [Transactions since last audit: 54]
+
+Agent WT6 withdraws $16 from Account JA-2 - Balance: $3178 [Transaction #595]
+
+Agent WT1 withdraws $28 from Account JA-1 - Balance: $3503 [Transaction #596]
+
+Agent WT8 withdraws $88 from Account JA-1 - Balance: $3415 [Transaction #597]
+
+Agent WT7 withdraws $99 from Account JA-2 - Balance: $3079 [Transaction #598]
+
+* * * Flagged Transaction: Withdrawal by Agent WT7 in Account JA-2 exceeded $90. See log.
+
+Agent WT4 withdraws $71 from Account JA-1 - Balance: $3344 [Transaction #599]
+
+Agent WT5 withdraws $67 from Account JA-1 - Balance: $3277 [Transaction #600]
+
+Agent WT10 withdraws $3 from Account JA-1 - Balance: $3274 [Transaction #601]
+
+Agent DT3 deposits $16 into Account JA-1 - Balance: $3290 [Transaction #602]
+
+Agent WT7 withdraws $88 from Account JA-1 - Balance: $3202 [Transaction #603]
+
+Agent WT9 withdraws $3 from Account JA-1 - Balance: $3199 [Transaction #604]
+
+Agent WT2 withdraws $61 from Account JA-1 - Balance: $3138 [Transaction #605]
+
+Agent WT5 withdraws $41 from Account JA-1 - Balance: $3097 [Transaction #606]
+
+Agent WT3 withdraws $96 from Account JA-2 - Balance: $2983 [Transaction #607]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-2 exceeded $90. See log.
+
+Agent WT2 withdraws $9 from Account JA-2 - Balance: $2974 [Transaction #608]
+
+Agent WT5 withdraws $57 from Account JA-1 - Balance: $3040 [Transaction #609]
+
+Agent WT3 withdraws $35 from Account JA-1 - Balance: $3005 [Transaction #610]
+
+Agent TR1 transfers $600 from Account JA-2 to Account JA-1 - Source Balance: $2374, Target Balance: $3605 [Transaction #611]
+
+Agent DT1 deposits $292 into Account JA-2 - Balance: $2666 [Transaction #612]
+
+Agent WT1 withdraws $54 from Account JA-1 - Balance: $3551 [Transaction #613]
+
+Agent WT6 withdraws $44 from Account JA-2 - Balance: $2622 [Transaction #614]
+
+Agent WT5 withdraws $25 from Account JA-2 - Balance: $2597 [Transaction #615]
+
+Agent WT8 withdraws $19 from Account JA-1 - Balance: $3532 [Transaction #616]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3532 [Transactions since last audit: 38
+ JA-2 Balance: $2597 [Transactions since last audit: 38]
+
+Agent WT2 withdraws $62 from Account JA-2 - Balance: $2535 [Transaction #617]
+
+Agent WT4 withdraws $11 from Account JA-1 - Balance: $3521 [Transaction #618]
+
+Agent WT10 withdraws $8 from Account JA-2 - Balance: $2527 [Transaction #619]
+
+Agent WT6 withdraws $99 from Account JA-1 - Balance: $3422 [Transaction #620]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-1 exceeded $90. See log.
+
+Agent WT7 withdraws $33 from Account JA-1 - Balance: $3389 [Transaction #621]
+
+Agent DT2 deposits $443 into Account JA-2 - Balance: $2970 [Transaction #622]
+
+Agent WT9 withdraws $13 from Account JA-1 - Balance: $3376 [Transaction #623]
+
+Agent WT1 withdraws $35 from Account JA-1 - Balance: $3341 [Transaction #624]
+
+Agent WT3 withdraws $18 from Account JA-2 - Balance: $2952 [Transaction #625]
+
+Agent WT4 withdraws $14 from Account JA-1 - Balance: $3327 [Transaction #626]
+
+Agent DT2 deposits $513 into Account JA-2 - Balance: $3465 [Transaction #627]
+
+
+* * * Flagged Transaction: Deposit by Agent DT2 in Account JA-2 exceeded $450. See log.
+
+
+Agent DT1 deposits $341 into Account JA-2 - Balance: $3806 [Transaction #628]
+
+Agent WT7 withdraws $50 from Account JA-2 - Balance: $3756 [Transaction #629]
+
+Agent WT1 withdraws $66 from Account JA-2 - Balance: $3690 [Transaction #630]
+
+Agent WT9 withdraws $54 from Account JA-1 - Balance: $3273 [Transaction #631]
+
+Agent WT4 withdraws $18 from Account JA-2 - Balance: $3672 [Transaction #632]
+
+Agent WT10 withdraws $71 from Account JA-1 - Balance: $3202 [Transaction #633]
+
+Agent WT5 withdraws $76 from Account JA-2 - Balance: $3596 [Transaction #634]
+
+Agent WT2 withdraws $68 from Account JA-1 - Balance: $3134 [Transaction #635]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3134 [Transactions since last audit: 19
+ JA-2 Balance: $3596 [Transactions since last audit: 19]
+
+Agent WT8 withdraws $6 from Account JA-1 - Balance: $3128 [Transaction #636]
+
+Agent WT6 withdraws $65 from Account JA-2 - Balance: $3531 [Transaction #637]
+
+Agent WT1 withdraws $24 from Account JA-1 - Balance: $3104 [Transaction #638]
+
+Agent DT2 deposits $524 into Account JA-2 - Balance: $4055 [Transaction #639]
+
+
+* * * Flagged Transaction: Deposit by Agent DT2 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT4 withdraws $87 from Account JA-2 - Balance: $3968 [Transaction #640]
+
+Agent WT3 withdraws $2 from Account JA-2 - Balance: $3966 [Transaction #641]
+
+Agent WT5 withdraws $53 from Account JA-1 - Balance: $3051 [Transaction #642]
+
+Agent DT4 deposits $429 into Account JA-1 - Balance: $3480 [Transaction #643]
+
+Agent WT2 withdraws $97 from Account JA-1 - Balance: $3383 [Transaction #644]
+
+* * * Flagged Transaction: Withdrawal by Agent WT2 in Account JA-1 exceeded $90. See log.
+
+Agent WT9 withdraws $19 from Account JA-1 - Balance: $3364 [Transaction #645]
+
+Agent DT5 deposits $485 into Account JA-1 - Balance: $3849 [Transaction #646]
+
+
+* * * Flagged Transaction: Deposit by Agent DT5 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT2 withdraws $32 from Account JA-2 - Balance: $3934 [Transaction #647]
+
+Agent WT7 withdraws $79 from Account JA-1 - Balance: $3770 [Transaction #648]
+
+Agent WT10 withdraws $87 from Account JA-2 - Balance: $3847 [Transaction #649]
+
+Agent TR2 transfers $234 from Account JA-1 to Account JA-2 - Source Balance: $3536, Target Balance: $4081 [Transaction #650]
+
+Agent WT4 withdraws $27 from Account JA-2 - Balance: $4054 [Transaction #651]
+
+Agent WT1 withdraws $96 from Account JA-2 - Balance: $3958 [Transaction #652]
+
+* * * Flagged Transaction: Withdrawal by Agent WT1 in Account JA-2 exceeded $90. See log.
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3536 [Transactions since last audit: 58
+ JA-2 Balance: $3958 [Transactions since last audit: 58]
+
+Agent TR2 transfers $245 from Account JA-1 to Account JA-2 - Source Balance: $3291, Target Balance: $4203 [Transaction #653]
+
+Agent WT8 withdraws $1 from Account JA-1 - Balance: $3290 [Transaction #654]
+
+Agent WT6 withdraws $64 from Account JA-2 - Balance: $4139 [Transaction #655]
+
+Agent WT3 withdraws $19 from Account JA-1 - Balance: $3271 [Transaction #656]
+
+Agent WT5 withdraws $97 from Account JA-2 - Balance: $4042 [Transaction #657]
+
+* * * Flagged Transaction: Withdrawal by Agent WT5 in Account JA-2 exceeded $90. See log.
+
+Agent WT2 withdraws $87 from Account JA-2 - Balance: $3955 [Transaction #658]
+
+Agent WT10 withdraws $41 from Account JA-1 - Balance: $3230 [Transaction #659]
+
+Agent WT9 withdraws $11 from Account JA-2 - Balance: $3944 [Transaction #660]
+
+Agent WT6 withdraws $27 from Account JA-2 - Balance: $3917 [Transaction #661]
+
+Agent DT3 deposits $592 into Account JA-2 - Balance: $4509 [Transaction #662]
+
+
+* * * Flagged Transaction: Deposit by Agent DT3 in Account JA-2 exceeded $450. See log.
+
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3230 [Transactions since last audit: 27
+ JA-2 Balance: $4509 [Transactions since last audit: 27]
+
+Agent WT7 withdraws $82 from Account JA-1 - Balance: $3148 [Transaction #663]
+
+Agent WT5 withdraws $35 from Account JA-2 - Balance: $4474 [Transaction #664]
+
+Agent WT4 withdraws $90 from Account JA-1 - Balance: $3058 [Transaction #665]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-1 exceeded $90. See log.
+
+Agent WT6 withdraws $62 from Account JA-2 - Balance: $4412 [Transaction #666]
+
+Agent WT3 withdraws $91 from Account JA-1 - Balance: $2967 [Transaction #667]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-1 exceeded $90. See log.
+
+Agent WT5 withdraws $67 from Account JA-2 - Balance: $4345 [Transaction #668]
+
+Agent TR1 transfers $181 from Account JA-2 to Account JA-1 - Source Balance: $4164, Target Balance: $3148 [Transaction #669]
+
+Agent WT1 withdraws $84 from Account JA-1 - Balance: $3064 [Transaction #670]
+
+Agent WT6 withdraws $18 from Account JA-2 - Balance: $4146 [Transaction #671]
+
+Agent WT8 withdraws $8 from Account JA-2 - Balance: $4138 [Transaction #672]
+
+Agent WT10 withdraws $40 from Account JA-1 - Balance: $3024 [Transaction #673]
+
+Agent WT7 withdraws $1 from Account JA-2 - Balance: $4137 [Transaction #674]
+
+Agent WT9 withdraws $97 from Account JA-1 - Balance: $2927 [Transaction #675]
+
+* * * Flagged Transaction: Withdrawal by Agent WT9 in Account JA-1 exceeded $90. See log.
+
+Agent WT4 withdraws $80 from Account JA-1 - Balance: $2847 [Transaction #676]
+
+Agent WT2 withdraws $1 from Account JA-1 - Balance: $2846 [Transaction #677]
+
+Agent WT5 withdraws $4 from Account JA-2 - Balance: $4133 [Transaction #678]
+
+Agent WT7 withdraws $71 from Account JA-2 - Balance: $4062 [Transaction #679]
+
+Agent WT5 withdraws $9 from Account JA-2 - Balance: $4053 [Transaction #680]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2846 [Transactions since last audit: 18
+ JA-2 Balance: $4053 [Transactions since last audit: 18]
+
+Agent WT8 withdraws $51 from Account JA-2 - Balance: $4002 [Transaction #681]
+
+Agent WT3 withdraws $40 from Account JA-2 - Balance: $3962 [Transaction #682]
+
+Agent WT4 withdraws $96 from Account JA-1 - Balance: $2750 [Transaction #683]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-1 exceeded $90. See log.
+
+Agent WT2 withdraws $40 from Account JA-2 - Balance: $3922 [Transaction #684]
+
+Agent WT6 withdraws $64 from Account JA-1 - Balance: $2686 [Transaction #685]
+
+Agent WT10 withdraws $73 from Account JA-1 - Balance: $2613 [Transaction #686]
+
+Agent WT1 withdraws $63 from Account JA-1 - Balance: $2550 [Transaction #687]
+
+Agent DT5 deposits $513 into Account JA-2 - Balance: $4435 [Transaction #688]
+
+
+* * * Flagged Transaction: Deposit by Agent DT5 in Account JA-2 exceeded $450. See log.
+
+
+Agent WT6 withdraws $40 from Account JA-1 - Balance: $2510 [Transaction #689]
+
+Agent WT7 withdraws $98 from Account JA-2 - Balance: $4337 [Transaction #690]
+
+* * * Flagged Transaction: Withdrawal by Agent WT7 in Account JA-2 exceeded $90. See log.
+
+Agent WT5 withdraws $64 from Account JA-1 - Balance: $2446 [Transaction #691]
+
+Agent DT1 deposits $179 into Account JA-2 - Balance: $4516 [Transaction #692]
+
+Agent DT2 deposits $31 into Account JA-2 - Balance: $4547 [Transaction #693]
+
+Agent WT2 withdraws $6 from Account JA-2 - Balance: $4541 [Transaction #694]
+
+Agent WT9 withdraws $17 from Account JA-2 - Balance: $4524 [Transaction #695]
+
+Agent WT10 withdraws $21 from Account JA-1 - Balance: $2425 [Transaction #696]
+
+Agent WT7 withdraws $33 from Account JA-1 - Balance: $2392 [Transaction #697]
+
+Agent WT1 withdraws $84 from Account JA-2 - Balance: $4440 [Transaction #698]
+
+Agent WT5 withdraws $43 from Account JA-2 - Balance: $4397 [Transaction #699]
+
+Agent WT4 withdraws $41 from Account JA-1 - Balance: $2351 [Transaction #700]
+
+Agent DT4 deposits $468 into Account JA-1 - Balance: $2819 [Transaction #701]
+
+
+* * * Flagged Transaction: Deposit by Agent DT4 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT8 withdraws $89 from Account JA-2 - Balance: $4308 [Transaction #702]
+
+Agent WT9 withdraws $30 from Account JA-2 - Balance: $4278 [Transaction #703]
+
+Agent WT2 withdraws $76 from Account JA-2 - Balance: $4202 [Transaction #705]
+
+Agent WT3 withdraws $24 from Account JA-1 - Balance: $2795 [Transaction #704]
+
+Agent WT8 withdraws $11 from Account JA-1 - Balance: $2784 [Transaction #706]
+
+Agent WT5 withdraws $97 from Account JA-2 - Balance: $4105 [Transaction #707]
+
+* * * Flagged Transaction: Withdrawal by Agent WT5 in Account JA-2 exceeded $90. See log.
+
+Agent WT9 withdraws $74 from Account JA-2 - Balance: $4031 [Transaction #708]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2784 [Transactions since last audit: 28
+ JA-2 Balance: $4031 [Transactions since last audit: 28]
+
+Agent WT6 withdraws $71 from Account JA-2 - Balance: $3960 [Transaction #709]
+
+Agent WT4 withdraws $45 from Account JA-1 - Balance: $2739 [Transaction #710]
+
+Agent WT1 withdraws $14 from Account JA-1 - Balance: $2725 [Transaction #711]
+
+Agent WT9 withdraws $91 from Account JA-2 - Balance: $3869 [Transaction #712]
+
+* * * Flagged Transaction: Withdrawal by Agent WT9 in Account JA-2 exceeded $90. See log.
+
+Agent WT10 withdraws $67 from Account JA-1 - Balance: $2658 [Transaction #713]
+
+Agent WT8 withdraws $30 from Account JA-1 - Balance: $2628 [Transaction #714]
+
+Agent WT1 withdraws $27 from Account JA-2 - Balance: $3842 [Transaction #715]
+
+Agent DT2 deposits $52 into Account JA-2 - Balance: $3894 [Transaction #716]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2628 [Transactions since last audit: 8
+ JA-2 Balance: $3894 [Transactions since last audit: 8]
+
+Agent WT5 withdraws $40 from Account JA-2 - Balance: $3854 [Transaction #717]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $2628 [Transactions since last audit: 65
+ JA-2 Balance: $3854 [Transactions since last audit: 65]
+
+Agent WT7 withdraws $81 from Account JA-1 - Balance: $2547 [Transaction #718]
+
+Agent DT3 deposits $521 into Account JA-1 - Balance: $3068 [Transaction #719]
+
+
+* * * Flagged Transaction: Deposit by Agent DT3 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT2 withdraws $45 from Account JA-2 - Balance: $3809 [Transaction #720]
+
+Agent DT1 deposits $220 into Account JA-1 - Balance: $3288 [Transaction #721]
+
+Agent WT4 withdraws $51 from Account JA-1 - Balance: $3237 [Transaction #722]
+
+Agent DT4 deposits $536 into Account JA-2 - Balance: $4345 [Transaction #723]
+
+
+* * * Flagged Transaction: Deposit by Agent DT4 in Account JA-2 exceeded $450. See log.
+
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3237 [Transactions since last audit: 7
+ JA-2 Balance: $4345 [Transactions since last audit: 7]
+
+Agent WT3 withdraws $1 from Account JA-2 - Balance: $4344 [Transaction #724]
+
+Agent WT1 withdraws $78 from Account JA-1 - Balance: $3159 [Transaction #725]
+
+Agent DT1 deposits $514 into Account JA-2 - Balance: $4858 [Transaction #726]
+
+
+* * * Flagged Transaction: Deposit by Agent DT1 in Account JA-2 exceeded $450. See log.
+
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3159 [Transactions since last audit: 9
+ JA-2 Balance: $4858 [Transactions since last audit: 9]
+
+Agent WT10 withdraws $15 from Account JA-2 - Balance: $4843 [Transaction #727]
+
+Agent WT6 withdraws $42 from Account JA-1 - Balance: $3117 [Transaction #728]
+
+Agent WT8 withdraws $52 from Account JA-2 - Balance: $4791 [Transaction #729]
+
+Agent WT6 withdraws $50 from Account JA-2 - Balance: $4741 [Transaction #730]
+
+Agent WT2 withdraws $14 from Account JA-2 - Balance: $4727 [Transaction #731]
+
+Agent WT5 withdraws $90 from Account JA-2 - Balance: $4637 [Transaction #732]
+
+* * * Flagged Transaction: Withdrawal by Agent WT5 in Account JA-2 exceeded $90. See log.
+
+Agent WT10 withdraws $39 from Account JA-2 - Balance: $4598 [Transaction #733]
+
+Agent WT1 withdraws $51 from Account JA-2 - Balance: $4547 [Transaction #734]
+
+Agent WT4 withdraws $97 from Account JA-1 - Balance: $3020 [Transaction #735]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-1 exceeded $90. See log.
+
+Agent WT9 withdraws $32 from Account JA-2 - Balance: $4515 [Transaction #736]
+
+Agent WT3 withdraws $86 from Account JA-1 - Balance: $2934 [Transaction #737]
+
+Agent WT4 withdraws $14 from Account JA-2 - Balance: $4501 [Transaction #738]
+
+Agent DT5 deposits $458 into Account JA-1 - Balance: $3392 [Transaction #739]
+
+
+* * * Flagged Transaction: Deposit by Agent DT5 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT7 withdraws $38 from Account JA-1 - Balance: $3354 [Transaction #740]
+
+Agent WT5 withdraws $60 from Account JA-1 - Balance: $3294 [Transaction #741]
+
+Agent DT5 deposits $462 into Account JA-1 - Balance: $3756 [Transaction #742]
+
+
+* * * Flagged Transaction: Deposit by Agent DT5 in Account JA-1 exceeded $450. See log.
+
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $3756 [Transactions since last audit: 16
+ JA-2 Balance: $4501 [Transactions since last audit: 16]
+
+Agent TR2 transfers $500 from Account JA-2 to Account JA-1 - Source Balance: $4001, Target Balance: $4256 [Transaction #743]
+
+Agent DT2 deposits $551 into Account JA-1 - Balance: $4807 [Transaction #744]
+
+
+* * * Flagged Transaction: Deposit by Agent DT2 in Account JA-1 exceeded $450. See log.
+
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $4807 [Transactions since last audit: 2
+ JA-2 Balance: $4001 [Transactions since last audit: 2]
+
+Agent WT8 withdraws $63 from Account JA-2 - Balance: $3938 [Transaction #745]
+
+Agent WT3 withdraws $20 from Account JA-2 - Balance: $3918 [Transaction #746]
+
+Agent WT4 withdraws $78 from Account JA-2 - Balance: $3840 [Transaction #747]
+
+Agent WT5 withdraws $72 from Account JA-1 - Balance: $4735 [Transaction #748]
+
+Agent WT2 withdraws $51 from Account JA-2 - Balance: $3789 [Transaction #749]
+
+Agent WT8 withdraws $46 from Account JA-2 - Balance: $3743 [Transaction #750]
+
+Agent WT1 withdraws $50 from Account JA-2 - Balance: $3693 [Transaction #751]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $4735 [Transactions since last audit: 7
+ JA-2 Balance: $3693 [Transactions since last audit: 7]
+
+Agent WT6 withdraws $65 from Account JA-2 - Balance: $3628 [Transaction #752]
+
+Agent WT7 withdraws $5 from Account JA-1 - Balance: $4730 [Transaction #753]
+
+Agent TR2 transfers $377 from Account JA-2 to Account JA-1 - Source Balance: $3251, Target Balance: $5107 [Transaction #754]
+
+Agent WT6 withdraws $36 from Account JA-2 - Balance: $3215 [Transaction #755]
+
+Agent WT9 withdraws $99 from Account JA-2 - Balance: $3116 [Transaction #756]
+
+* * * Flagged Transaction: Withdrawal by Agent WT9 in Account JA-2 exceeded $90. See log.
+
+Agent WT8 withdraws $13 from Account JA-1 - Balance: $5094 [Transaction #757]
+
+Agent WT7 withdraws $91 from Account JA-1 - Balance: $5003 [Transaction #758]
+
+* * * Flagged Transaction: Withdrawal by Agent WT7 in Account JA-1 exceeded $90. See log.
+
+Agent WT10 withdraws $25 from Account JA-1 - Balance: $4978 [Transaction #759]
+
+Agent WT1 withdraws $59 from Account JA-2 - Balance: $3057 [Transaction #760]
+
+Agent WT3 withdraws $1 from Account JA-1 - Balance: $4977 [Transaction #761]
+
+Agent WT6 withdraws $97 from Account JA-2 - Balance: $2960 [Transaction #762]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-2 exceeded $90. See log.
+
+Agent WT4 withdraws $93 from Account JA-1 - Balance: $4884 [Transaction #763]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-1 exceeded $90. See log.
+
+Agent WT10 withdraws $8 from Account JA-1 - Balance: $4876 [Transaction #764]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $4876 [Transactions since last audit: 41
+ JA-2 Balance: $2960 [Transactions since last audit: 41]
+
+Agent WT8 withdraws $21 from Account JA-1 - Balance: $4855 [Transaction #765]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $4855 [Transactions since last audit: 14
+ JA-2 Balance: $2960 [Transactions since last audit: 14]
+
+Agent DT3 deposits $428 into Account JA-1 - Balance: $5283 [Transaction #766]
+
+Agent WT3 withdraws $24 from Account JA-1 - Balance: $5259 [Transaction #767]
+
+Agent WT2 withdraws $94 from Account JA-2 - Balance: $2866 [Transaction #768]
+
+* * * Flagged Transaction: Withdrawal by Agent WT2 in Account JA-2 exceeded $90. See log.
+
+Agent WT10 withdraws $14 from Account JA-2 - Balance: $2852 [Transaction #769]
+
+Agent WT6 withdraws $86 from Account JA-1 - Balance: $5173 [Transaction #770]
+
+Agent WT7 withdraws $44 from Account JA-1 - Balance: $5129 [Transaction #771]
+
+Agent DT5 deposits $552 into Account JA-2 - Balance: $3404 [Transaction #772]
+
+
+* * * Flagged Transaction: Deposit by Agent DT5 in Account JA-2 exceeded $450. See log.
+
+
+Agent TR2 transfers $271 from Account JA-1 to Account JA-2 - Source Balance: $4858, Target Balance: $3675 [Transaction #773]
+
+Agent WT4 withdraws $64 from Account JA-1 - Balance: $4794 [Transaction #774]
+
+Agent WT5 withdraws $5 from Account JA-1 - Balance: $4789 [Transaction #775]
+
+Agent DT1 deposits $344 into Account JA-2 - Balance: $4019 [Transaction #776]
+
+Agent WT9 withdraws $76 from Account JA-2 - Balance: $3943 [Transaction #777]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $4789 [Transactions since last audit: 13
+ JA-2 Balance: $3943 [Transactions since last audit: 13]
+
+Agent WT7 withdraws $40 from Account JA-1 - Balance: $4749 [Transaction #778]
+
+Agent WT3 withdraws $16 from Account JA-2 - Balance: $3927 [Transaction #779]
+
+Agent WT1 withdraws $69 from Account JA-2 - Balance: $3858 [Transaction #780]
+
+Agent WT4 withdraws $59 from Account JA-1 - Balance: $4690 [Transaction #781]
+
+Agent WT7 withdraws $43 from Account JA-1 - Balance: $4647 [Transaction #782]
+
+Agent WT2 withdraws $33 from Account JA-2 - Balance: $3825 [Transaction #783]
+
+Agent WT6 withdraws $79 from Account JA-1 - Balance: $4568 [Transaction #784]
+
+Agent WT8 withdraws $8 from Account JA-1 - Balance: $4560 [Transaction #785]
+
+Agent DT4 deposits $117 into Account JA-2 - Balance: $3942 [Transaction #786]
+
+Agent WT1 withdraws $81 from Account JA-2 - Balance: $3861 [Transaction #787]
+
+Agent WT3 withdraws $82 from Account JA-1 - Balance: $4478 [Transaction #788]
+
+Agent WT5 withdraws $24 from Account JA-2 - Balance: $3837 [Transaction #789]
+
+Agent WT1 withdraws $17 from Account JA-1 - Balance: $4461 [Transaction #790]
+
+Agent WT3 withdraws $39 from Account JA-1 - Balance: $4422 [Transaction #791]
+
+Agent WT10 withdraws $63 from Account JA-1 - Balance: $4359 [Transaction #792]
+
+Agent WT2 withdraws $42 from Account JA-1 - Balance: $4317 [Transaction #793]
+
+Agent WT4 withdraws $84 from Account JA-1 - Balance: $4233 [Transaction #794]
+
+Agent DT1 deposits $146 into Account JA-2 - Balance: $3983 [Transaction #795]
+
+Agent WT9 withdraws $82 from Account JA-1 - Balance: $4151 [Transaction #796]
+
+Agent DT4 deposits $281 into Account JA-1 - Balance: $4432 [Transaction #797]
+
+Agent WT6 withdraws $99 from Account JA-1 - Balance: $4333 [Transaction #798]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-1 exceeded $90. See log.
+
+Agent TR1 transfers $476 from Account JA-2 to Account JA-1 - Source Balance: $3507, Target Balance: $4809 [Transaction #799]
+
+Agent WT9 withdraws $28 from Account JA-2 - Balance: $3479 [Transaction #800]
+
+Agent WT5 withdraws $80 from Account JA-2 - Balance: $3399 [Transaction #801]
+
+Agent DT4 deposits $445 into Account JA-2 - Balance: $3844 [Transaction #802]
+
+Agent WT7 withdraws $89 from Account JA-1 - Balance: $4720 [Transaction #803]
+
+Agent WT2 withdraws $90 from Account JA-1 - Balance: $4630 [Transaction #804]
+
+* * * Flagged Transaction: Withdrawal by Agent WT2 in Account JA-1 exceeded $90. See log.
+
+Agent WT10 withdraws $11 from Account JA-2 - Balance: $3833 [Transaction #805]
+
+Agent WT8 withdraws $15 from Account JA-1 - Balance: $4615 [Transaction #806]
+
+Agent WT1 withdraws $3 from Account JA-1 - Balance: $4612 [Transaction #807]
+
+Agent WT2 withdraws $34 from Account JA-2 - Balance: $3799 [Transaction #808]
+
+Agent WT4 withdraws $53 from Account JA-1 - Balance: $4559 [Transaction #809]
+
+Agent WT7 withdraws $59 from Account JA-2 - Balance: $3740 [Transaction #810]
+
+Agent DT1 deposits $72 into Account JA-1 - Balance: $4631 [Transaction #811]
+
+Agent DT2 deposits $568 into Account JA-1 - Balance: $5199 [Transaction #812]
+
+
+* * * Flagged Transaction: Deposit by Agent DT2 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT6 withdraws $96 from Account JA-2 - Balance: $3644 [Transaction #813]
+
+* * * Flagged Transaction: Withdrawal by Agent WT6 in Account JA-2 exceeded $90. See log.
+
+Agent WT7 withdraws $19 from Account JA-2 - Balance: $3625 [Transaction #814]
+
+Agent WT8 withdraws $78 from Account JA-2 - Balance: $3547 [Transaction #815]
+
+Agent DT4 deposits $532 into Account JA-1 - Balance: $5731 [Transaction #816]
+
+
+* * * Flagged Transaction: Deposit by Agent DT4 in Account JA-1 exceeded $450. See log.
+
+
+Agent WT3 withdraws $94 from Account JA-2 - Balance: $3453 [Transaction #817]
+
+* * * Flagged Transaction: Withdrawal by Agent WT3 in Account JA-2 exceeded $90. See log.
+
+Agent WT1 withdraws $61 from Account JA-1 - Balance: $5670 [Transaction #818]
+
+Agent DT5 deposits $79 into Account JA-2 - Balance: $3532 [Transaction #819]
+
+Agent WT7 withdraws $75 from Account JA-2 - Balance: $3457 [Transaction #820]
+
+Agent WT9 withdraws $92 from Account JA-1 - Balance: $5578 [Transaction #821]
+
+* * * Flagged Transaction: Withdrawal by Agent WT9 in Account JA-1 exceeded $90. See log.
+
+Agent WT5 withdraws $78 from Account JA-1 - Balance: $5500 [Transaction #822]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $5500 [Transactions since last audit: 45
+ JA-2 Balance: $3457 [Transactions since last audit: 45]
+
+Agent WT8 withdraws $70 from Account JA-2 - Balance: $3387 [Transaction #823]
+
+Agent WT10 withdraws $31 from Account JA-1 - Balance: $5469 [Transaction #824]
+
+Agent WT8 withdraws $42 from Account JA-1 - Balance: $5427 [Transaction #825]
+
+Agent WT4 withdraws $88 from Account JA-2 - Balance: $3299 [Transaction #826]
+
+Agent WT3 withdraws $28 from Account JA-2 - Balance: $3271 [Transaction #827]
+
+Agent TR2 transfers $96 from Account JA-2 to Account JA-1 - Source Balance: $3175, Target Balance: $5523 [Transaction #828]
+
+Agent WT9 withdraws $76 from Account JA-2 - Balance: $3099 [Transaction #829]
+
+Agent DT3 deposits $228 into Account JA-1 - Balance: $5751 [Transaction #830]
+
+Agent WT8 withdraws $24 from Account JA-1 - Balance: $5727 [Transaction #831]
+
+Agent TR1 transfers $455 from Account JA-2 to Account JA-1 - Source Balance: $2644, Target Balance: $6182 [Transaction #832]
+
+Agent WT1 withdraws $88 from Account JA-1 - Balance: $6094 [Transaction #833]
+
+Agent WT2 withdraws $90 from Account JA-2 - Balance: $2554 [Transaction #834]
+
+* * * Flagged Transaction: Withdrawal by Agent WT2 in Account JA-2 exceeded $90. See log.
+
+Agent WT4 withdraws $89 from Account JA-1 - Balance: $6005 [Transaction #835]
+
+Agent WT6 withdraws $3 from Account JA-2 - Balance: $2551 [Transaction #836]
+
+Agent WT3 withdraws $27 from Account JA-2 - Balance: $2524 [Transaction #837]
+
+Agent WT7 withdraws $82 from Account JA-1 - Balance: $5923 [Transaction #838]
+
+Agent WT8 withdraws $10 from Account JA-2 - Balance: $2514 [Transaction #839]
+
+Agent WT4 withdraws $16 from Account JA-1 - Balance: $5907 [Transaction #840]
+
+TREASURY AUDITOR (Treasury) auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $5907 [Transactions since last audit: 75
+ JA-2 Balance: $2514 [Transactions since last audit: 75]
+
+Agent WT6 withdraws $6 from Account JA-1 - Balance: $5901 [Transaction #841]
+
+Agent WT5 withdraws $4 from Account JA-1 - Balance: $5897 [Transaction #842]
+
+Agent WT8 withdraws $92 from Account JA-1 - Balance: $5805 [Transaction #843]
+
+* * * Flagged Transaction: Withdrawal by Agent WT8 in Account JA-1 exceeded $90. See log.
+
+Agent WT10 withdraws $52 from Account JA-1 - Balance: $5753 [Transaction #844]
+
+Agent WT9 withdraws $57 from Account JA-2 - Balance: $2457 [Transaction #845]
+
+Agent WT1 withdraws $55 from Account JA-1 - Balance: $5698 [Transaction #846]
+
+Agent WT3 withdraws $57 from Account JA-2 - Balance: $2400 [Transaction #847]
+
+Agent WT4 withdraws $20 from Account JA-1 - Balance: $5678 [Transaction #848]
+
+Agent TR1 transfers $24 from Account JA-2 to Account JA-1 - Source Balance: $2376, Target Balance: $5702 [Transaction #849]
+
+Agent WT7 withdraws $2 from Account JA-2 - Balance: $2374 [Transaction #850]
+
+Agent WT2 withdraws $32 from Account JA-2 - Balance: $2342 [Transaction #851]
+
+Agent WT4 withdraws $90 from Account JA-2 - Balance: $2252 [Transaction #852]
+
+* * * Flagged Transaction: Withdrawal by Agent WT4 in Account JA-2 exceeded $90. See log.
+
+Agent WT6 withdraws $55 from Account JA-2 - Balance: $2197 [Transaction #853]
+
+Agent DT4 deposits $448 into Account JA-1 - Balance: $6150 [Transaction #854]
+
+Agent WT9 withdraws $18 from Account JA-2 - Balance: $2179 [Transaction #855]
+
+Agent WT10 withdraws $47 from Account JA-1 - Balance: $6103 [Transaction #856]
+
+Agent WT8 withdraws $84 from Account JA-1 - Balance: $6019 [Transaction #857]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $6019 [Transactions since last audit: 35
+ JA-2 Balance: $2179 [Transactions since last audit: 35]
+
+Agent DT2 deposits $121 into Account JA-2 - Balance: $2300 [Transaction #858]
+
+Agent WT5 withdraws $48 from Account JA-2 - Balance: $2252 [Transaction #859]
+
+Agent WT9 withdraws $33 from Account JA-1 - Balance: $5986 [Transaction #860]
+
+Agent WT10 withdraws $34 from Account JA-2 - Balance: $2218 [Transaction #861]
+
+Agent WT2 withdraws $33 from Account JA-2 - Balance: $2185 [Transaction #862]
+
+Agent DT1 deposits $441 into Account JA-1 - Balance: $6427 [Transaction #863]
+
+Agent WT7 withdraws $29 from Account JA-1 - Balance: $6398 [Transaction #864]
+
+Agent WT9 withdraws $43 from Account JA-1 - Balance: $6355 [Transaction #865]
+
+Agent WT3 withdraws $13 from Account JA-1 - Balance: $6342 [Transaction #866]
+
+Agent WT1 withdraws $97 from Account JA-1 - Balance: $6245 [Transaction #867]
+
+* * * Flagged Transaction: Withdrawal by Agent WT1 in Account JA-1 exceeded $90. See log.
+
+Agent WT7 withdraws $76 from Account JA-1 - Balance: $6169 [Transaction #868]
+
+Agent WT4 withdraws $3 from Account JA-2 - Balance: $2182 [Transaction #869]
+
+Agent TR1 transfers $111 from Account JA-1 to Account JA-2 - Source Balance: $6058, Target Balance: $2293 [Transaction #870]
+
+Agent DT5 deposits $4 into Account JA-1 - Balance: $6062 [Transaction #871]
+
+AUDITOR auditing Accounts JA-1 and JA-2 
+ JA-1 Balance: $6062 [Transactions since last audit: 14
+ JA-2 Balance: $2293 [Transactions since last audit: 14]
+
+Agent WT8 withdraws $63 from Account JA-1 - Balance: $5999 [Transaction #872]
+
+Agent WT6 withdraws $59 from Account JA-2 - Balance: $2234 [Transaction #873]
+
+Agent DT4 deposits $596 into Account JA-1 - Balance: $6595 [Transaction #874]
+
+
+* * * Flagged Transaction: Deposit by Agent DT4 in Account JA-1 exceeded $450. See log.
+
+
