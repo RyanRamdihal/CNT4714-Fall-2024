@@ -1,0 +1,51 @@
+<web-app>
+
+    <!-- General description of your Web application -->
+    <display-name>
+        CNT 4714 Fall 2024 Servlet/JSP Home Page
+    </display-name>
+
+    <description>
+        This is the Web application in which we
+        demonstrate our JSP and Servlet examples.
+    </description>
+
+    <!-- Servlet definitions and mappings  -->
+
+    <servlet>
+        <servlet-name>AuthenticationServlet</servlet-name>
+        <servlet-class>project4.AuthenticationServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AuthenticationServlet</servlet-name>
+        <url-pattern>/AuthenticationServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ClientHomeServlet</servlet-name>
+        <servlet-class>project4.ClientHomeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ClientHomeServlet</servlet-name>
+        <url-pattern>/ClientHomeServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>RootHomeServlet</servlet-name>
+        <servlet-class>project4.RootHomeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RootHomeServlet</servlet-name>
+        <url-pattern>/RootHomeServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AccountantHomeServlet</servlet-name>
+        <servlet-class>project4.AccountantHomeServlet</servlet-class> <!-- Corrected class name -->
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AccountantHomeServlet</servlet-name>
+        <url-pattern>/AccountantHomeServlet</url-pattern>
+    </servlet-mapping>
+
+   </web-app>

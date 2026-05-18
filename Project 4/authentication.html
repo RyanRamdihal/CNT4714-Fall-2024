@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>User Authentication Portal</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Link to external CSS for styles -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- Link to Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            flex-direction: column;
+            text-align: center;
+        }
+        section {
+            width: 100%;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        form label, form input {
+            margin-bottom: 15px;
+        }
+        form input[type="text"],
+        form input[type="password"] {
+            font-size: 24px;
+            background-color: #263238;
+            color: #FFF;
+            border: none;
+            padding: 10px;
+            width: 300px;
+            border-radius: 5px;
+        }
+        form input[type="submit"] {
+            font-size: 24px;
+            background-color: #FF5722;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        form input[type="submit"]:hover {
+            background-color: #E64A19;
+        }
+        h1, h2 {
+            margin: 10px 0;
+        }
+        hr {
+            width: 80%;
+            border: 1px solid white;
+        }
+    </style>
+</head>
+<body>
+<section>
+    <h1 style="color: yellow; font-size: 42px;">Welcome to the Fall 2024 Project 4 Enterprise System</h1>
+    <h1 style="color: lime; font-size: 38px;">A Servlet/JSP-based Multi-tiered Enterprise Application Using a Tomcat Container</h1>
+    <h2 style="color: red; font-size: 35px;">- User Authentication Page -</h2>
+</section>
+
+<hr>
+
+<section>
+    <form action="AuthenticationServlet" method="post">
+        <label for="username" style="color: yellow; font-size: 24px;">Username</label>
+        <input type="text" id="username" name="username" required>
+        <label for="password" style="color: yellow; font-size: 24px;">Password</label>
+        <input id="password" type="password" name="password" required>
+        <input type="submit" value="Sign In">
+    </form>
+</section>
+
+<hr>
+</body>
+</html>
